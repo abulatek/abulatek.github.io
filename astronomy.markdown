@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Astronomy
 description: The reason I study physics (no offense to physics)
 ---
