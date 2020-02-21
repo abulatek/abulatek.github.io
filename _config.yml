@@ -30,7 +30,7 @@ twitter_username: metalyssaty
 github_username: abulatek
 
 # Build settings
-remote_theme: hyde
+theme: minima
 plugins:
   - jekyll-feed
 
