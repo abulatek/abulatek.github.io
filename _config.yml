@@ -8,6 +8,6 @@ relative_permalinks: false
 # Setup
 title:            Alyssa Bulatek
 tagline:          'Home'
-description:      '<a href="https://www.macalester.edu/" target="_blank">Undergraduate</a> student of astronomy and statistics. Never slowing down.'
+description:      'Astronomical detective in training. Never slowing down.'
 url:              http://abulatek.github.io
 baseurl:          /
