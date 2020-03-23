@@ -15,7 +15,7 @@ I was recently elected **president** of High Power Rocketry at Macalester for th
   <img src="https://abulatek.github.io/resources/QFT1_patch.png" style="display: inline" width="150" height="150" alt="QFT I mission patch" />
   <img src="https://abulatek.github.io/resources/QFT2_patch.png" style="display: inline" width="150" height="150" alt="QFT II mission patch" />
   <img src="https://abulatek.github.io/resources/mach_patch.png" style="display: inline" width="150" height="150" alt="Mach-alester I mission patch" />
-<p>
+</p>
 
 These mission patches were designed by my friend Ira Langdon, artist and rocketry extraordinaire.
 
