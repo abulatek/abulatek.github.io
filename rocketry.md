@@ -5,19 +5,19 @@ title: Rocketry
 
 ## High Power Rocketry at Macalester
 
-> [Click here to see the rocketry-related projects I've been involved with!](https://abulatek.github.io/rocketry_projects.html)
+> [Click here to see the rocketry-related projects I've been involved with!](https://abulatek.github.io/rocketry_projects/)
 
 I am a co-founder of Macalester College's high power rocketry team, founded in 2017. We build and fly rockets for annual competitions throughout the academic year.
 
 I was recently elected **president** of High Power Rocketry at Macalester for the 2019-2020 school year. I am excited to take on this role. I am committed to making the team as welcoming of an environment as possible and making the ideas and opinions of my fellow team members heard. Previously, I have served as **treasurer** of the team. As treasurer, I compiled monthly expense reporting and kept an updated budgetary spreadsheet. I also served on the leadership council and informed executive decisions. I learned a lot about the wonders of conditional formatting during my tenure as treasurer.
 
 <p align="center">
-  <img src="resources/QFT1_patch.png" width="150" height="150" alt="QFT I mission patch" />
-  <img src="resources/QFT2_patch.png" width="150" height="150" alt="QFT II mission patch" />
-  <img src="resources/mach_patch.png" width="150" height="150" alt="Mach-alester I mission patch" />
+  <img src="https://abulatek.github.io/resources/QFT1_patch.png" width="150" height="150" alt="QFT I mission patch" />
+  <img src="https://abulatek.github.io/resources/QFT2_patch.png" width="150" height="150" alt="QFT II mission patch" />
+  <img src="https://abulatek.github.io/resources/mach_patch.png" width="150" height="150" alt="Mach-alester I mission patch" />
 </p>
 
-These mission patches were designed by I. Langdon, artist and rocketry extraordinaire.
+These mission patches were designed by my friend Ira Langdon, artist and rocketry extraordinaire.
 
 ### Education and Public Outreach
 
@@ -36,7 +36,7 @@ High Power Rocketry at Macalester intends to participate in the IREC Spaceport A
 Our team participated in the NASA Space Grant Midwest High Power Rocketry Competition during the 2018-2019 school year, our second entry into the competition. The challenge of this competition was to build an **"efficient supersonic"** rocket---break the speed of sound during flight, but fly to the lowest possible maximum altitude. Our rocket, dubbed Mach-alester I, weighed in at less than 4.5 pounds with motors installed and stood only 3 feet tall. We have had one test launch, but have not yet launched for the competition due to muddy launch fields. Watch this space in October 2019 for an update on how the launch went!
 
 <p align="center">
-  <img src="resources/mach_group_photo.JPG" width="100%" alt="Mach-alester I group photo" />
+  <img src="https://abulatek.github.io/resources/mach_group_photo.JPG" width="100%" alt="Mach-alester I group photo" />
 </p>
 
 ### Quantum Field Theory II
@@ -52,7 +52,7 @@ Hands-on experience is an important step in the early careers of scientists who 
 Quantum Heavy was built for our first entry in the Midwest High Power Rocketry Competition in 2018. It was quite heavy indeed at over 6.5 pounds. The goal of the 2017-2018 competition was to build a rocket that could **control its rotation** about its roll axis. We chose to do this using a flywheel powered by a stepper motor. There were several new techniques employed by the team for this build, including a spring system to deploy LEDs outside of the rocket that would display which direction the flywheel was spinning. Due to a gyroscope with a low sampling rate, QH was unable to successfully control its roll, but building the rocket and participating in the competition was a rewarding experience nonetheless.
 
 <p align="center">
-  <img src="resources/QH_parachute.jpg" width="100%" alt="Quantum Heavy parachute deployment" />
+  <img src="https://abulatek.github.io/resources/QH_parachute.jpg" width="100%" alt="Quantum Heavy parachute deployment" />
 </p>
 
 ### Quantum Field Theory I
