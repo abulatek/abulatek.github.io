@@ -10,7 +10,7 @@ permalink: /astronomy/
 
 ### Radio Instrumentation
 
-<img src="resources/feed_horn_perspective.png" width="265" align="right" hspace="10" alt="UWBR feed horn" />
+<img src="https://abulatek.github.io/resources/feed_horn_perspective.png" width="265" align="right" hspace="10" alt="UWBR feed horn" />
 - The [Green Bank Telescope](https://greenbankobservatory.org/science/telescopes/gbt/) is involved in [NANOGrav](http://nanograv.org/)'s search for gravitational waves, propagating disturbances in spacetime, by acting as a **stopwatch for pulsars**.
 - Pulsars are rapidly-rotating neutron stars that emit regular radio pulses. GWs passing between the Earth and the pulsar will change their apparent pulse period.
 - Green Bank Observatory is designing an **ultra-wideband (6:1)** radio receiver that can make simultaneous wideband observations of pulsars to precisely measure their signal timing. I calculated the predicted efficiency of the receiver and modeled a component of the cryogenic dewar.
@@ -20,7 +20,7 @@ permalink: /astronomy/
 
 ### Infrared Instrumentation
 
-<img src="resources/IPC_relation.png" height="275" align="right" hspace="10" vspace="6" alt="IPC relationship" />
+<img src="https://abulatek.github.io/resources/IPC_relation.png" height="275" align="right" hspace="10" vspace="6" alt="IPC relationship" />
 - The [Near-Earth Object Camera](https://uanews.arizona.edu/story/uarizona-looks-toward-work-nasa-s-potential-asteroidhunting-space-telescope) (also known as NEO Surveyor) spacecraft is designed to find, track, and characterize **potentially hazardous asteroids** (large and close to the Earth). The University of Rochester is contributing to the NEOCam project by characterizing prototypes of the high sensitivity 16-megapixel cameras that will fly on NEOCam.
 - During the summer of 2018, I participated in the Physics REU at UR. I worked in the infrared detector group with Dr. Judy Pipher, Craig McMurtry, and their graduate students. I wrote an algorithm to correct for an image-blurring effect that plagues long-wavelength (~10-micron) IR detectors called **interpixel capacitance (IPC)**.
 - IPC spreads signal from one pixel to its neighbors via capacitance between the pixels. It has been shown to be **signal-dependent**: the more signal deposited onto a pixel, the less signal gets spread to nearby pixels. So, to correct for IPC effectively, we must measure the relationship between signal spread and signal strength.
@@ -31,7 +31,7 @@ permalink: /astronomy/
 
 #### IC 3877
 
-<img src="resources/IC3877.png" height="250" align="right" hspace="10" vspace="10" alt="IC3877 images"/>
+<img src="https://abulatek.github.io/resources/IC3877.png" height="250" align="right" hspace="10" vspace="10" alt="IC3877 images"/>
 - In the spring of 2018, my Observational Astronomy course at Macalester analyzed 21 cm data from the VLA on KDG 215. In the data cube, another HI source was present off-axis and offset in velocity space from KDG 215. It was IC 3877, a large spiral galaxy that had previously been imaged for SDSS, but never in HI. I ended up imaging IC 3877 for a few reasons. Firstly, I only had experience with small dwarf galaxies, and wanted to see how a large spiral would look in the radio. Secondly, I was interested in seeing if an off-axis primary beam correction could recover the total HI flux measured by a single-dish observation.
 - Doing this imaging work was worth it, as the images were **beautiful**. I calculated an HI flux integral of 32.3 Jy km/s, compared to the ALFALFA result of 32.2 Jy km/s. Within the error for the VLA (10%), these integrals are the same (John Cannon, personal correspondence).
 
@@ -44,12 +44,12 @@ permalink: /astronomy/
 
 ### Circumstellar Disks
 
-<img src="resources/DMTau_bw.png" height="275" align="right" hspace="10" alt="DM Tau image"/>
+<img src="https://abulatek.github.io/resources/DMTau_bw.png" height="275" align="right" hspace="10" alt="DM Tau image"/>
 - During summer 2017, I took part in the KNAC REU at Wesleyan University working with Dr. Kevin Flaherty (now at Williams College). I used data from ALMA to **image the dust structure** of three circumstellar disks. For the disks around V4046 Sgr, MWC 480, and DM Tau, we were able to resolve down to spatial scales of 18, 29, and 25 AU respectively.
 - We used **MCMC modeling** to determine the dust-to-gas ratios in the rings in each of the disk as well as disk radii. This modeling work was preliminary, but allowed me to get familiar with MCMC techniques.
 
 <p align="center">
-  <img src="resources/disk_stats.png" height="150" alt="Disk statistics" />
+  <img src="https://abulatek.github.io/resources/disk_stats.png" height="150" alt="Disk statistics" />
   (Note: figures not to scale and are only meant to illustrate the relative size of each ring.)
 </p>
 

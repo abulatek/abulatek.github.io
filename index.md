@@ -14,9 +14,9 @@ layout: home
 
 **Research:** I am currently most interested in pushing the boundaries of observational astronomy to higher and higher angular resolutions. My current research interests are primarily related to circumstellar disks and radio frequency instrumentation development.
 
-**Rocketry:** I am an active member of [Macalester's High Power Rocketry team](https://abulatek.github.io/rocketry.html), and I have participated in the design and build processes of several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team is participating in the Spaceport America Cup in 2020.
+**Rocketry:** I am an active member of [Macalester's High Power Rocketry team](https://abulatek.github.io/rocketry/), and I have participated in the design and build processes of several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team is participating in the Spaceport America Cup in 2020.
 
-**Technical theatre and more:** I also harbor a love for theatre and work in the costume shop at Macalester. My favorite musical is [*Big Fish*](https://www.theatricalrights.com/show/big-fish/). I am an avid player of the [Nancy Drew PC game series](https://www.herinteractive.com/shop-games/all-games/). 
+**Technical theatre and more:** I also harbor a love for theatre and work in the costume shop at Macalester. My favorite musical is [*Big Fish*](https://www.theatricalrights.com/show/big-fish/). I am an avid player of the [Nancy Drew PC game series](https://www.herinteractive.com/shop-games/all-games/).
 
 ### Recent Activities
 
