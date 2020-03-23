@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Astronomy"
-permalink: /https://abulatek.github.io/astronomy/
+permalink: /astronomy/
 ---
 
 ## Astronomy Research
