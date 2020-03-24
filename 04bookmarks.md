@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Useful resources"
+title: "Bookmarks"
 ---
 
 Here are some useful resources that I have encountered in my life in academia so far. I have found most, if not all, of them through others, so full credit goes to them.
