@@ -16,7 +16,7 @@ permalink: /astronomy/
 - Green Bank Observatory is designing an **ultra-wideband (6:1)** radio receiver that can make simultaneous wideband observations of pulsars to precisely measure their signal timing. I calculated the predicted efficiency of the receiver and modeled a component of the cryogenic dewar.
 - Fabrication of the receiver has begun and scientific commissioning of the system is expected to begin in late 2020 or early 2021.
   - I presented a [poster](https://abulatek.github.io/resources/GBO_poster.pdf) on this work at AAS 235.
-  - Here's a [video](https://twitter.com/GreenBankObserv/status/1143472673802072064) featuring me talking a little about my summer.
+  - Here's a [video](https://www.youtube.com/watch?v=Zfygjjy-36U) featuring me talking a little about my summer.
 
 ### Infrared Instrumentation
 
