@@ -2,12 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+title: "About me"
+permalink: /about/
 ---
 
 ## Hello!
 
-<img src="resources/alyssa.png" width="200" align="right" hspace="20" vspace="10" alt="Me!" />
+<img src="/resources/alyssa.png" width="200" align="right" hspace="20" vspace="10" alt="Me!" />
 > My name is Alyssa Bulatek and I am a senior at Macalester College in St. Paul, Minnesota. I have been lucky enough to have had several really cool research opportunities during my undergraduate career so far; please see [my CV](https://abulatek.github.io/resources/abulatek_cv.pdf) for more information about these.
 
 ### Interests
