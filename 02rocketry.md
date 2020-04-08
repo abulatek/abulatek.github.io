@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rocketry
+permalink: /rocketry/
 ---
 
 ## High Power Rocketry at Macalester
