@@ -14,7 +14,6 @@ I am a co-founder of Macalester College's high power rocketry team, founded in 2
   <img src="https://abulatek.github.io/resources/QFT2_patch.png" style="display: inline" width="150" height="150" alt="QFT II mission patch" />
   <img src="https://abulatek.github.io/resources/mach_patch.png" style="display: inline" width="150" height="150" alt="Mach-alester I mission patch" />
 </p>
-
 Our logo and mission patches were designed by my friend Ira Langdon, artist and rocketry extraordinaire.
 
 ### Public Outreach
