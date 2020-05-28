@@ -6,7 +6,7 @@ permalink: /rocketry/
 
 ## High Power Rocketry at Macalester
 
-I am a co-founder of Macalester College's high power rocketry team, founded in 2017. We build and fly rockets for annual competitions throughout the academic year. 
+I am a co-founder of Macalester College's high power rocketry team, founded in 2017. We build and fly rockets for annual competitions throughout the academic year and host DIY rocket events in our library. 
 
 <p align="center">
   <img src="https://abulatek.github.io/resources/ribbon_logo.png" style="display: inline" width="150" height="150" alt="Mac Rocketry logo" />
