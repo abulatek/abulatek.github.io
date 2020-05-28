@@ -29,7 +29,7 @@ I am thankful to have had several opportunities to do super cool research in ast
 
 #### IC 3877
 
-<img src="https://abulatek.github.io/resources/IC3877.png" height="250" align="right" hspace="10" vspace="10" alt="IC3877 images"/>
+<img src="https://abulatek.github.io/resources/IC3877.png" height="250" align="right" style="padding: 25px;" alt="IC3877 images"/>
 - In the spring of 2018, my Observational Astronomy course at Macalester analyzed 21 cm data from the VLA on KDG 215. In the data cube, another HI source was present off-axis and offset in velocity space from KDG 215. It was IC 3877, a large spiral galaxy that had previously been imaged for SDSS, but never in HI. I ended up imaging IC 3877 for a few reasons. Firstly, I only had experience with small dwarf galaxies, and wanted to see how a large spiral would look in the radio. Secondly, I was interested in seeing if an off-axis primary beam correction could recover the total HI flux measured by a single-dish observation.
 - Doing this imaging work was worth it, as the images were **beautiful**. I calculated an HI flux integral of 32.3 Jy km/s, compared to the ALFALFA result of 32.2 Jy km/s. Within the error for the VLA (10%), these integrals are the same (John Cannon, personal correspondence).
 
@@ -42,12 +42,12 @@ I am thankful to have had several opportunities to do super cool research in ast
 
 ### Circumstellar Disks
 
-<img src="https://abulatek.github.io/resources/DMTau_bw.png" height="275" align="right" hspace="10" alt="DM Tau image"/>
+<img src="https://abulatek.github.io/resources/DMTau_bw.png" height="275" align="right" style="padding: 25px;" alt="DM Tau image"/>
 - During summer 2017, I took part in the KNAC REU at Wesleyan University working with Dr. Kevin Flaherty (now at Williams College). I used data from ALMA to **image the dust structure** of three circumstellar disks. For the disks around V4046 Sgr, MWC 480, and DM Tau, we were able to resolve down to spatial scales of 18, 29, and 25 AU respectively.
 - We used **MCMC modeling** to determine the dust-to-gas ratios in the rings in each of the disk as well as disk radii. This modeling work was preliminary, but allowed me to get familiar with MCMC techniques.
 
 <p align="center">
-  <img src="https://abulatek.github.io/resources/disk_stats.png" height="150" alt="Disk statistics" />
+  <img src="https://abulatek.github.io/resources/disk_stats.png" height="150" style="padding: 25px;" alt="Disk statistics" />
   (Note: figures not to scale and are only meant to illustrate the relative size of each ring.)
 </p>
 
