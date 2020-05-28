@@ -10,4 +10,4 @@ Here are some useful resources that I have encountered in my life in academia so
 - [Our galactic neighborhood.](https://www.symmetrymagazine.org/article/our-galactic-neighborhood) A really beautiful interactive graphic for exploring some well-known local dwarf galaxies.
 - [Implicit bias tests.](https://implicit.harvard.edu/implicit/takeatest.html) Learning about your own unconscious biases is the first step in changing them.
 - [Quantum made simple.](https://toutestquantique.fr/en/) Great visualizations of abstract quantum mechanics concepts and experiments.
-- [Propagation of uncertainties.](https://en.wikipedia.org/wiki/Propagation_of_uncertainty) I always always have to check this when propagating uncertainties.
+- [Propagation of uncertainties.](https://en.wikipedia.org/wiki/Propagation_of_uncertainty#Example_formulae) I always always have to check this when propagating uncertainties.
