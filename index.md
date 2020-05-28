@@ -7,7 +7,7 @@ layout: default
 
 ## Hello!
 
-<img src="/resources/alyssa.png" width="200" align="right" hspace="40" vspace="10" alt="A photo of me!" />
+<img src="/resources/alyssa.png" width="200" align="right" style="padding: 25px;" alt="A photo of me!" />
 > My name is Alyssa Bulatek and I am an incoming graduate student in the Astronomy department at the University of Florida. I recently graduated from Macalester College in Minnesota. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/resources/abulatek_cv.pdf).
 
 ### Interests
