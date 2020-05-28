@@ -47,7 +47,7 @@ I am thankful to have had several opportunities to do super cool research in ast
 - We used **MCMC modeling** to determine the dust-to-gas ratios in the rings in each of the disk as well as disk radii. This modeling work was preliminary, but allowed me to get familiar with MCMC techniques.
 
 <p align="center">
-  <img src="https://abulatek.github.io/resources/disk_stats.png" height="150" style="padding: 15px;" alt="Disk statistics" />
+  <img src="https://abulatek.github.io/resources/disk_stats.png" height="150" style="padding: 5px;" alt="Disk statistics" />
   (Note: figures not to scale and are only meant to illustrate the relative size of each ring.)
 </p>
 
