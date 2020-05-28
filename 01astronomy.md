@@ -4,9 +4,7 @@ title: "Astronomy"
 permalink: /astronomy/
 ---
 
-## Astronomy Research
-
-> I am thankful to have had several opportunities to do super cool research in astronomy during my undergraduate career. What follows is a summary of each of those projects.
+I am thankful to have had several opportunities to do super cool research in astronomy during my undergraduate career. What follows is a summary of each of those projects.
 
 ### Radio Instrumentation
 
