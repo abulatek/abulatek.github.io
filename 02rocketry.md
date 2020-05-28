@@ -6,11 +6,7 @@ permalink: /rocketry/
 
 ## High Power Rocketry at Macalester
 
-> [Click here to see the rocketry-related projects I've been involved with!](https://abulatek.github.io/rocketry_projects/)
-
-I am a co-founder of Macalester College's high power rocketry team, founded in 2017. We build and fly rockets for annual competitions throughout the academic year.
-
-I was recently elected **president** of High Power Rocketry at Macalester for the 2019-2020 school year. I am excited to take on this role. I am committed to making the team as welcoming of an environment as possible and making the ideas and opinions of my fellow team members heard. Previously, I have served as **treasurer** of the team. As treasurer, I compiled monthly expense reporting and kept an updated budgetary spreadsheet. I also served on the leadership council and informed executive decisions. I learned a lot about the wonders of conditional formatting during my tenure as treasurer.
+I am a co-founder of Macalester College's high power rocketry team, founded in 2017. We build and fly rockets for annual competitions throughout the academic year. 
 
 <p align="center">
   <img src="https://abulatek.github.io/resources/ribbon_logo.png" style="display: inline" width="150" height="150" alt="Mac Rocketry logo" />
