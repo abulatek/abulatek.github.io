@@ -8,7 +8,7 @@ I am thankful to have had several opportunities to do super cool research in ast
 
 ### Radio Instrumentation
 
-<img src="https://abulatek.github.io/resources/feed_horn_perspective.png" width="265" align="right" style="padding: 10px 10px 10px 10px;" alt="UWBR feed horn" />
+<img src="https://abulatek.github.io/resources/feed_horn_perspective.png" width="265" align="right" style="padding: 25px;" alt="UWBR feed horn" />
 - The [Green Bank Telescope](https://greenbankobservatory.org/science/telescopes/gbt/) is involved in [NANOGrav](http://nanograv.org/)'s search for gravitational waves, propagating disturbances in spacetime, by acting as a **stopwatch for pulsars**.
 - Pulsars are rapidly-rotating neutron stars that emit regular radio pulses. GWs passing between the Earth and the pulsar will change their apparent pulse period.
 - Green Bank Observatory is designing an **ultra-wideband (6:1)** radio receiver that can make simultaneous wideband observations of pulsars to precisely measure their signal timing. I calculated the predicted efficiency of the receiver and modeled a component of the cryogenic dewar.
@@ -18,7 +18,7 @@ I am thankful to have had several opportunities to do super cool research in ast
 
 ### Infrared Instrumentation
 
-<img src="https://abulatek.github.io/resources/IPC_relation.png" height="275" align="right" style="padding: 10px 10px 10px 10px;" alt="IPC relationship" />
+<img src="https://abulatek.github.io/resources/IPC_relation.png" height="275" align="right" style="padding: 25px;" alt="IPC relationship" />
 - The [Near-Earth Object Camera](https://uanews.arizona.edu/story/uarizona-looks-toward-work-nasa-s-potential-asteroidhunting-space-telescope) (also known as NEO Surveyor) spacecraft is designed to find, track, and characterize **potentially hazardous asteroids** (large and close to the Earth). The University of Rochester is contributing to the NEOCam project by characterizing prototypes of the high sensitivity 16-megapixel cameras that will fly on NEOCam.
 - During the summer of 2018, I participated in the Physics REU at UR. I worked in the infrared detector group with Dr. Judy Pipher, Craig McMurtry, and their graduate students. I wrote an algorithm to correct for an image-blurring effect that plagues long-wavelength (~10-micron) IR detectors called **interpixel capacitance (IPC)**.
 - IPC spreads signal from one pixel to its neighbors via capacitance between the pixels. It has been shown to be **signal-dependent**: the more signal deposited onto a pixel, the less signal gets spread to nearby pixels. So, to correct for IPC effectively, we must measure the relationship between signal spread and signal strength.
