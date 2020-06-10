@@ -12,7 +12,7 @@ layout: default
 
 ### Interests
 
-**Research:** I am currently most interested in pushing the boundaries of observational astronomy to higher and higher angular resolutions. My current research interests are primarily related to circumstellar disks and radio frequency instrumentation development.
+**Research:** I am broadly interested in observational radio astronomy and radio/infrared/optical instrumentation. You can check out the projects I have worked on in the [Astronomy](https://abulatek.github.io/astronomy/) tab on this site. 
 
 **Rocketry:** At Macalester, I was involved with [Macalester's High Power Rocketry team](https://abulatek.github.io/rocketry/), and I participated in the design and build processes of several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team intended to participate in the Spaceport America Cup in 2020, which was cancelled. 
 
