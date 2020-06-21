@@ -16,12 +16,12 @@ layout: default
 
 **Rocketry:** At Macalester, I was involved with [Macalester's High Power Rocketry team](https://abulatek.github.io/rocketry/), and I participated in the design and build processes of several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team intended to participate in the Spaceport America Cup in 2020, which was cancelled. 
 
-**Technical theatre and more:** I also harbor a love for theatre and worked in the costume shop at Macalester. My favorite musical is [*Big Fish*](https://www.theatricalrights.com/show/big-fish/). I am an [avid player](https://www.youtube.com/channel/UCYdvdoHbrFpmEM9TXPnenIA) of the [Nancy Drew PC game series](https://www.herinteractive.com/shop-games/all-games/).
+**Technical theatre and more:** I harbor a love for theatre and worked in the costume shop at Macalester. My favorite musical is [*Big Fish*](https://www.theatricalrights.com/show/big-fish/). I am an [avid player](https://www.youtube.com/channel/UCYdvdoHbrFpmEM9TXPnenIA) of the [Nancy Drew PC game series](https://www.herinteractive.com/shop-games/all-games/). I am a big fan of the podcast [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/). 
 
 ### Recent Activities
 
 - **April 2020:** Undergraduate Thesis Defense
-  - I presented my honors thesis entitled "Design and Modal Analysis of an Ultra-wideband Receiver for Green Bank Observatory" based on my work at from this past summer. My paper is publically available to read (and my presentation is available to watch) on the [Macalester Journal of Physics and Astronomy website](https://digitalcommons.macalester.edu/mjpa/vol8/iss1/3/).
+  - I presented my honors thesis entitled "Design and Modal Analysis of an Ultra-wideband Receiver for Green Bank Observatory" based on my work at from this past summer. My paper is publicly available to read (and my presentation is available to watch) on the [Macalester Journal of Physics and Astronomy website](https://digitalcommons.macalester.edu/mjpa/vol8/iss1/3/).
 
 - **January 2020:** Poster, *235th Meeting of the American Astronomical Society*
   - I presented my work from Green Bank at the 235th Meeting of the American Astronomical Society in Honolulu, Hawaii.
