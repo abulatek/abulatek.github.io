@@ -26,7 +26,7 @@ High Power Rocketry at Macalester intended to participate in the IREC Spaceport 
 
 ### Mach-alester I
 
-Our team participated in the NASA Space Grant Midwest High Power Rocketry Competition during the 2018-2019 school year, our second entry into the competition. The challenge of this competition was to build an **"efficient supersonic"** rocket---break the speed of sound during flight, but fly to the lowest possible maximum altitude. Our rocket, dubbed Mach-alester I, weighed in at less than 4.5 pounds with motors installed and stood only 3 feet tall. We launched the rocket in fall 2019 due to mud-related scrubs in the spring, and Mach-alester I only got in one flight before landing without a parachute and losing its fins. That launch was not our supersonic attempt, but 
+Our team participated in the NASA Space Grant Midwest High Power Rocketry Competition during the 2018-2019 school year, our second entry into the competition. The challenge of this competition was to build an **"efficient supersonic"** rocket---break the speed of sound during flight, but fly to the lowest possible maximum altitude. Our rocket, dubbed Mach-alester I, weighed in at less than 4.5 pounds with motors installed and stood only 3 feet tall. We launched the rocket in fall 2019 due to mud-related scrubs in the spring, and Mach-alester I only got in one flight before landing without a parachute and losing its fins. 
 
 <p align="center">
   <img src="https://abulatek.github.io/resources/mach_group_photo.JPG" width="100%" alt="Mach-alester I group photo" />
