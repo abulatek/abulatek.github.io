@@ -8,14 +8,13 @@ I am thankful to have had several opportunities to do super cool research in ast
 
 ### Radio Instrumentation
 
-- The [Green Bank Telescope](https://greenbankobservatory.org/science/telescopes/gbt/) is involved in [NANOGrav](http://nanograv.org/)'s search for gravitational waves, propagating disturbances in spacetime, by acting as a **stopwatch for pulsars**.
-- Pulsars are rapidly-rotating neutron stars that emit regular radio pulses. GWs passing between the Earth and the pulsar will change their apparent pulse period.
-- Green Bank Observatory is designing an **ultra-wideband (6:1)** radio receiver that can make simultaneous wideband observations of pulsars to precisely measure their signal timing. I calculated the predicted efficiency of the receiver and modeled a component of the cryogenic dewar.
-- Fabrication of the receiver has begun and scientific commissioning of the system is expected to begin in late 2020 or early 2021.
-  - I presented a [poster](https://abulatek.github.io/resources/GBO_poster.pdf) on this work at AAS 235.
-  - Here's a [video](https://www.youtube.com/watch?v=Zfygjjy-36U) featuring me talking a little about my summer.
-  
-<img src="https://abulatek.github.io/resources/feed_horn_perspective.png" width="265" align="center" style="padding: 15px;" alt="UWBR feed horn" />
+The [Green Bank Telescope](https://greenbankobservatory.org/science/telescopes/gbt/) is currently being used in [NANOGrav](http://nanograv.org/)'s search for gravitational waves by acting as a **stopwatch for pulsars**. Pulsars are rapidly-rotating neutron stars that emit regular radio pulses. Gravitational waves passing between the Earth and the pulsar will change their apparent pulse period. Green Bank Observatory is designing an **ultra-wideband (6:1)** radio receiver that can make simultaneous wideband observations of pulsars to precisely measure their signal timing. I calculated the predicted efficiency of the receiver and calculated waveguide mode excitation in the receiver to try to diagnose a dip in efficiency at a certain frequency.
+- I presented a [poster](https://abulatek.github.io/resources/GBO_poster.pdf) on this work at AAS 235.
+- Here's a [video](https://www.youtube.com/watch?v=Zfygjjy-36U) featuring me talking a little about my summer.
+
+<p align="center">
+  <img src="https://abulatek.github.io/resources/radio_inst_header.jpg" width="100%" alt="The Green Bank Telescope at left, with a not-to-scale model image of the ultra-wideband feed horn at right."/>
+</p>
 
 ### Infrared Instrumentation
 
