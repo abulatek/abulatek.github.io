@@ -38,7 +38,7 @@ During summer 2017, I took part in the KNAC REU at Wesleyan University working w
   <img src="https://abulatek.github.io/resources/disk_stats.png" width="100%" alt="Disk statistics for the three circumstellar disks we imaged." />
 </p>
 
-## References
+### References
 
 1. Mainzer, A., Bauer, J., Grav, T., et al. (2011). Preliminary Results From NEOWISE: An Enhancement to the Wide-field Infrared Survey Explorer for Solar System Science. The Astrophysical Journal, 731(1), 53. doi: 10.1088/0004-637x/731/1/53
 2. University Communications. (2018, February 19). UArizona Looks Toward Work on NASA's Potential Asteroid-Hunting Space Telescope. Retrieved from https://uanews.arizona.edu/story/uarizona-looks-toward-work-nasa-s-potential-asteroidhunting-space-telescope.
