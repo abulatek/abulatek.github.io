@@ -18,13 +18,13 @@ The [Green Bank Telescope](https://greenbankobservatory.org/science/telescopes/g
 
 ### Infrared Instrumentation
 
-- The [Near-Earth Object Camera](https://uanews.arizona.edu/story/uarizona-looks-toward-work-nasa-s-potential-asteroidhunting-space-telescope) (also known as NEO Surveyor) spacecraft is designed to find, track, and characterize **potentially hazardous asteroids** (large and close to the Earth). The University of Rochester is contributing to the NEOCam project by characterizing prototypes of the high sensitivity 16-megapixel cameras that will fly on NEOCam.
-- During the summer of 2018, I participated in the Physics REU at UR. I worked in the infrared detector group with Dr. Judy Pipher, Craig McMurtry, and their graduate students. I wrote an algorithm to correct for an image-blurring effect that plagues long-wavelength (~10-micron) IR detectors called **interpixel capacitance (IPC)**.
-- IPC spreads signal from one pixel to its neighbors via capacitance between the pixels. It has been shown to be **signal-dependent**: the more signal deposited onto a pixel, the less signal gets spread to nearby pixels. So, to correct for IPC effectively, we must measure the relationship between signal spread and signal strength.
-  - I presented a [poster](https://abulatek.github.io/resources/UR_poster.pdf) on this work at AAS 233.
-  - I wrote an [Astrobites](https://astrobites.org/2018/11/05/ur-interpixel-capacitance/) post about the project.
-  
- <img src="https://abulatek.github.io/resources/IPC_relation.png" height="275" align="center" style="padding: 15px;" alt="IPC relationship" />
+The [NEO Surveyor](https://uanews.arizona.edu/story/uarizona-looks-toward-work-nasa-s-potential-asteroidhunting-space-telescope) spacecraft is designed to find, track, and characterize **potentially hazardous asteroids** (large and close to the Earth). The University of Rochester is contributing to the NEOSM project by characterizing prototypes of the high sensitivity 16-megapixel cameras that will fly on NEO Surveyor. During the summer of 2018, I worked in the infrared detector group at the University of Rochester with Dr. Judy Pipher, Craig McMurtry, and their graduate students and wrote an algorithm to correct for an image-blurring effect that plagues long-wavelength (~10-micron) IR detectors called **interpixel capacitance (IPC)**. IPC spreads signal from one pixel to its neighbors via capacitance between the pixels. It has been shown to be **signal-dependent**: the more signal deposited onto a pixel, the less signal gets spread to nearby pixels. So, to correct for IPC effectively, we must measure the relationship between signal spread and signal strength.
+- I presented a [poster](https://abulatek.github.io/resources/UR_poster.pdf) on this work at AAS 233.
+- I wrote an [Astrobites](https://astrobites.org/2018/11/05/ur-interpixel-capacitance/) post about the project.
+
+<p align="center">
+  <img src="https://abulatek.github.io/resources/ir_inst_header.png" width="100%" alt="The NEO Surveyor Spacecraft at left, with a plot showing the relationship between interpixel coupling and signal strength at right."/>
+</p>
 
 ### Galaxies
 
