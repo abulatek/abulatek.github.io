@@ -27,7 +27,7 @@ The [NEO Surveyor](https://uanews.arizona.edu/story/uarizona-looks-toward-work-n
 The research group I was part of at Macalester was led by Dr. John Cannon. I worked with him as part of two different classes, during which we imaged three dwarf local volume dwarf galaxies. In the spring of 2018, my Observational Astronomy course at Macalester analyzed 21 cm data from the VLA on KDG 215, which has a very interesting (and predominantly recent) star formation history. An image of KDG 215 is shown below. My second semester at Macalester, I worked in a research group with several students imaging two other dwarf galaxies (UGC 11411 and UGC 8245). Our work was featured by [AAS Nova](https://aasnova.org/2017/10/11/exploring-our-low-mass-neighbors/). Some of the first-year researchers in the group who got REU positions were [featured on the Macalester website](https://www.macalester.edu/news/2017/08/first-year-firecrackers/), and interviews with each of us are included.
 
 <p align="center">
-  <img src="https://abulatek.github.io/resources/galaxies_header.jpg" width="100%" alt="A series of HI images of KDG 215. The HI column density map of the dwarf galaxy at left, the line-of-sight velocity of the HI at center, and the velocity dispersion of the HI at right."/>
+  <img src="https://abulatek.github.io/resources/galaxy_header.jpg" width="100%" alt="A series of HI images of KDG 215. The HI column density map of the dwarf galaxy at left, the line-of-sight velocity of the HI at center, and the velocity dispersion of the HI at right."/>
 </p>
 
 ### Circumstellar Disks
