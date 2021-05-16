@@ -10,8 +10,7 @@ I am thankful to have had several opportunities to do super cool research in ast
 
 #### The Brick
 
-My current work is on uncovering unique tracers of star formation processes and environments (like shocks, outflows, and protostellar cores) in the Milky Way Central Molecular Zone (CMZ) using the CMZ cloud G0.253+0.015 ("The Brick"). Here's a [video](https://youtu.be/kj7t0HyJ-cU) of me giving an overview of my work on the project so far at the virtual ISM2021 conference.
-- Expect a publication (and a written summary of the publication) in late 2021!
+My current work is on uncovering unique tracers of star formation processes and environments (like shocks, outflows, and protostellar cores) in the Milky Way Central Molecular Zone (CMZ) using the CMZ cloud G0.253+0.015 ("The Brick"). Here's a [video](https://youtu.be/kj7t0HyJ-cU) of me giving an overview of my work on the project so far at the virtual ISM2021 conference. *Expect a publication (and a written summary of the publication) in late 2021!*
 
 #### PASHION (Paschen-Alpha Survey of Hydrogen IONs)
 
@@ -27,7 +26,7 @@ The [Green Bank Telescope](https://greenbankobservatory.org/science/telescopes/g
 
 ### Infrared Instrumentation
 
-The [NEO Surveyor](https://uanews.arizona.edu/story/uarizona-looks-toward-work-nasa-s-potential-asteroidhunting-space-telescope) spacecraft is designed to find, track, and characterize **potentially hazardous asteroids** (large and close to the Earth). The University of Rochester is contributing to the NEOSM project by characterizing prototypes of the high sensitivity 16-megapixel cameras that will fly on NEO Surveyor. During an REU at UR, I wrote an algorithm to correct for an image-blurring effect that plagues long-wavelength (~10-micron) IR detectors called **interpixel capacitance (IPC)**. IPC spreads signal from one pixel to its neighbors via capacitance between the pixels. It has been shown to be **signal-dependent**: the more signal deposited onto a pixel, the less signal gets spread to nearby pixels. So, to correct for IPC effectively, we must measure the relationship between signal spread and signal strength. I wrote an [Astrobites](https://astrobites.org/2018/11/05/ur-interpixel-capacitance/) post about this project.
+The [NEO Surveyor](https://uanews.arizona.edu/story/uarizona-looks-toward-work-nasa-s-potential-asteroidhunting-space-telescope) spacecraft is designed to find, track, and characterize **potentially hazardous asteroids**, which are large and close to the Earth ([Mainzer et al. 2011](https://iopscience.iop.org/article/10.1088/0004-637X/731/1/53)). The University of Rochester is contributing to the NEOSM project by characterizing prototypes of the high sensitivity 16-megapixel cameras that will fly on NEO Surveyor. During an REU at UR, I wrote an algorithm to correct for an image-blurring effect that plagues long-wavelength (~10-micron) IR detectors called **interpixel capacitance (IPC)**. IPC spreads signal from one pixel to its neighbors via capacitance between the pixels. It has been shown to be **signal-dependent**: the more signal deposited onto a pixel, the less signal gets spread to nearby pixels. So, to correct for IPC effectively, we must measure the relationship between signal spread and signal strength. I wrote an [Astrobites](https://astrobites.org/2018/11/05/ur-interpixel-capacitance/) post about this project.
 
 <p align="center">
   <img src="https://abulatek.github.io/files/ir_inst_header.png" width="100%" alt="The NEO Surveyor Spacecraft at left, with a plot showing the relationship between interpixel coupling and signal strength at right."/>
@@ -35,7 +34,7 @@ The [NEO Surveyor](https://uanews.arizona.edu/story/uarizona-looks-toward-work-n
 
 ### Dwarf Galaxies
 
-The research group I was part of at Macalester was led by Dr. John Cannon. I worked with him as part of two different classes, during which we **imaged three local volume dwarf galaxies**. In the spring of 2018, my Observational Astronomy course at Macalester analyzed 21 cm data from the VLA on KDG 215, which has a very interesting (and predominantly recent) star formation history. An image of KDG 215 is shown below. My second semester at Macalester, I worked in a research group with several students imaging two other dwarf galaxies (UGC 11411 and UGC 8245). Our work was featured by [AAS Nova](https://aasnova.org/2017/10/11/exploring-our-low-mass-neighbors/). Some of the first-year researchers in the group who got REU positions were [featured on the Macalester website](https://www.macalester.edu/news/2017/08/first-year-firecrackers/), and interviews with each of us are included.
+The research group I was part of at Macalester was led by Dr. John Cannon. I worked with him as part of two different classes, during which we **imaged three local volume dwarf galaxies**. In the spring of 2018, my Observational Astronomy course at Macalester analyzed 21 cm data from the VLA on KDG 215, which has a very interesting (and predominantly recent) star formation history ([Cannon et al. 2018](https://iopscience.iop.org/article/10.3847/2041-8213/aada48)). An image of KDG 215 is shown below. My second semester at Macalester, I worked in a research group with several students imaging two other dwarf galaxies, UGC 11411 and UGC 8245 ([Bralts-Kelly et al. 2017](https://iopscience.iop.org/article/10.3847/2041-8213/aa8ea0)). Our work was featured by [AAS Nova](https://aasnova.org/2017/10/11/exploring-our-low-mass-neighbors/). Some of the first-year researchers in the group who got REU positions were [featured on the Macalester website](https://www.macalester.edu/news/2017/08/first-year-firecrackers/), and interviews with each of us are included.
 
 <p align="center">
   <img src="https://abulatek.github.io/files/galaxy_header.jpg" width="100%" alt="A series of HI images of KDG 215. The HI column density map of the dwarf galaxy at left, the line-of-sight velocity of the HI at center, and the velocity dispersion of the HI at right."/>
@@ -48,10 +47,3 @@ During summer 2017, I took part in the KNAC REU at Wesleyan University working w
 <p align="center">
   <img src="https://abulatek.github.io/files/disk_stats.png" width="100%" alt="Disk statistics for the three circumstellar disks we imaged." />
 </p>
-
-### References
-
-1. Mainzer, A., Bauer, J., Grav, T., et al. (2011). Preliminary Results From NEOWISE: An Enhancement to the Wide-field Infrared Survey Explorer for Solar System Science. The Astrophysical Journal, 731(1), 53. doi: 10.1088/0004-637x/731/1/53
-2. University Communications. (2018, February 19). UArizona Looks Toward Work on NASA's Potential Asteroid-Hunting Space Telescope. Retrieved from https://uanews.arizona.edu/story/uarizona-looks-toward-work-nasa-s-potential-asteroidhunting-space-telescope.
-3. Bralts-Kelly, L., Bulatek, A. M., Chinski, S., Ford, R. N., Gilbonio, H. E., Helmel, G., ... Denn, G. (2017). First Characterization of the Neutral ISM in Two Local Volume Dwarf Galaxies. The Astrophysical Journal, 848(1). doi: 10.3847/2041-8213/aa8ea0
-4. Cannon, J. M., Shen, Z., McQuinn, K. B. W., Bartz, J., Bralts-Kelly, L., Bulatek, A. M., ... Salzer, J. J. (2018). Delayed Stellar Mass Assembly in the Low Surface Brightness Dwarf Galaxy KDG 215. The Astrophysical Journal, 864(1). doi: 10.3847/2041-8213/aada48
