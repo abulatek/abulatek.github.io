@@ -8,7 +8,14 @@ I am thankful to have had several opportunities to do super cool research in ast
 
 ### Star Formation
 
-(A summary of PASHION is in progress!)
+#### The Brick
+
+My current work is on uncovering unique tracers of star formation processes and environments (like shocks, outflows, and protostellar cores) in the Milky Way Central Molecular Zone (CMZ) using the CMZ cloud G0.253+0.015 ("The Brick"). Here's a [video](https://youtu.be/kj7t0HyJ-cU) of me giving an overview of my work on the project so far at the virtual ISM2021 conference.
+- Expect a publication (and a written summary of the publication) in late 2021!
+
+#### PASHION (Paschen-Alpha Survey of Hydrogen IONs)
+
+Here's a [video](https://youtu.be/BuqKTK1kmdI) of me giving a five-minute summary of my work for the proposed PASHION small satellite mission at AAS 237 (virtual).
 
 ### Radio Instrumentation
 
