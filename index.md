@@ -12,7 +12,7 @@ layout: default
 
 ### Interests
 
-**Research:** I'm currently studying **star formation** in the Milky Way. Specifically, I'm trying to uncover molecular tracers of different processes related to star formation in a molecular cloud near the Galactic Center called "the Brick." More on this work soon! I am also broadly interested in observational radio astronomy and radio/infrared/optical instrumentation. You can check out some of the projects I have worked on in the [Astronomy](https://abulatek.github.io/astronomy/) tab on this site. 
+**Research:** I'm currently studying **star formation** in the Milky Way. Specifically, I'm trying to uncover molecular tracers of different processes related to star formation in a molecular cloud near the Galactic Center called "The Brick." I am also broadly interested in observational radio astronomy and radio/infrared/optical instrumentation. You can check out some of the projects I have worked on in the [Astronomy](https://abulatek.github.io/astronomy/) tab on this site. 
 
 [**Rocketry:**](https://abulatek.github.io/rocketry/) At Macalester, I was involved with Macalester's High Power Rocketry team ([here's their Facebook page](https://www.facebook.com/MacRocketry)), and I participated in the design and build processes for several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team intended to participate in the Spaceport America Cup in 2020, which was cancelled, but the team plans to participate in the summer 2021 competition and is doing lots of other cool remote activities in the meantime. 
 
@@ -20,14 +20,14 @@ layout: default
 
 ### Recent Activities
 
+- **May 2021:** Contributed talk, *ISM2021*
+  - I gave a talk at the virtual ISM2021 conference summarizing my work so far on our ALMA spectral line survey of the Galactic Central Molecular Zone cloud G0.253+0.015 ("The Brick"). Here is a [video](https://youtu.be/kj7t0HyJ-cU) of my talk.
+
 - **January 2021:** iPoster Plus, *237th Meeting of the American Astronomical Society*
   - I presented my contribution to the proposed Paschen-Alpha Survey of Hydrogen IONs (PASHION) small satellite mission, led by Dr. Adam Ginsburg, at the virtual winter meeting of the AAS this year. Check out my [iPoster](https://aas237-aas.ipostersessions.com/default.aspx?s=0F-63-1D-BA-EC-6C-54-A6-65-E2-1C-15-EE-C5-CD-4C&guestview=true)!
 
+- **September 2020:** Graduate school, *University of Florida*
+  - I started graduate school in the Astronomy department at the University of Florida, working with Dr. Adam Ginsburg.
+
 - **April 2020:** Undergraduate Thesis Defense
   - I presented my honors thesis entitled "Design and Modal Analysis of an Ultra-wideband Receiver for Green Bank Observatory" based on my work at from this past summer. My paper is publicly available to read (and my [presentation](https://youtu.be/yq-kfK1X7T8) is available to watch) on the [Macalester Journal of Physics and Astronomy website](https://digitalcommons.macalester.edu/mjpa/vol8/iss1/3/).
-
-- **January 2020:** Poster, *235th Meeting of the American Astronomical Society*
-  - I presented my work from Green Bank at the 235th Meeting of the American Astronomical Society in Honolulu, Hawaii. You can see my poster [here](https://abulatek.github.io/files/presentations/GBO_poster.pdf).
-
-- **May to August 2019:** Summer Student, *Green Bank Observatory*
-  - In a remote town in West Virginia, I worked on a new ultra-wideband radio receiver for the Green Bank Telescope, the largest moveable structure made by humans. The GBT has a collecting area almost as large as two football fields! The receiver will be used to time pulsars, stars which are really precise clocks, with greater accuracy than ever before.
