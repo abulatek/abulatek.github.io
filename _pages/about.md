@@ -18,12 +18,12 @@ Interests
 
 [**Rocketry:**](https://abulatek.github.io/hobbies/) At Macalester, I was involved with Macalester's High Power Rocketry team ([here's their Facebook page](https://www.facebook.com/MacRocketry)), and I participated in the design and build processes for several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team intended to participate in the Spaceport America Cup in 2020, which was cancelled, but the team has been very active since then in both remote and in-person activities and competitions.
 
-**Technical theatre and more:** I have harbored a love for theatre since high school and worked in the costume shop at Macalester. My favorite musical is [*Big Fish*](https://www.theatricalrights.com/show/big-fish/). I am an avid player of the [Nancy Drew PC game series](https://www.herinteractive.com/shop-games/all-games/). I am a big fan of the podcast [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/). 
+**Technical theatre and more:** I have harbored a love for theatre since high school and worked in the costume shop at Macalester. My favorite musical is [*Big Fish*](https://www.theatricalrights.com/show/big-fish/). I am an [avid player](https://www.youtube.com/channel/UCYdvdoHbrFpmEM9TXPnenIA) of the [Nancy Drew PC game series](https://www.herinteractive.com/shop-games/all-games/), and I frequently indulge my nostalgia by playing [other PC games from my childhood](https://youtu.be/9iby4o_0oVM). I am a fan of the tabletop game Dungeons and Dragons, though I do not play it regularly. I have recently been developing an interest in filmmaking.
 
 Recent Activities
 ------
 - **March 2022:** Masters defense
-  - I gave my Masters presentation, entitled "Which spectral lines trace what physical processes in the Galactic Center? First results: temperature structure and line list" based on my work during the first two years of my graduate school career. My presentation is available to watch [here](https://youtu.be/aE_JxJB21Wg), with slides available [here](https://abulatek.github.io/files/masters.pdf).
+  - I gave my Masters presentation, entitled "Which spectral lines trace what physical processes in the Galactic Center? First results: temperature structure and line list" based on my work during the first two years of my graduate school career. My presentation is available to watch [here](https://youtu.be/7vltyxZKf9w), with slides available [here](https://abulatek.github.io/files/masters.pdf).
 
 - **November 2021:** Attendee, *IAA Severo Ochoa Advanced School on Star Formation*
   - I attended the [IAA Severo Ochoa Advanced School on Star Formation](https://www.granadacongresos.com/starform) in Granada, Spain, where I heard from experts in the field about both the fundamentals and the current "big questions" in the field of star formation, from protostellar to extragalactic scales.
