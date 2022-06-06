@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+# title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,12 +10,12 @@ redirect_from:
 
 Hello!
 ======
-<img src="/files/alyssa_august_2020_2_circle-min.png" width="200" align="right" style="padding: 25px;" alt="A photo of me!" />
-> My name is Alyssa Bulatek (she/her) and I am a [second-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/files/abulatek_cv.pdf) (last updated November 20, 2021).
+<img src="/images/alyssa_august_2020_2_circle-min.png" width="200" align="right" style="padding: 25px;" alt="A photo of me!" />
+> My name is Alyssa Bulatek (she/her) and I am a [second-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/files/abulatek_CV.pdf) (last updated November 20, 2021).
 
 Interests
 ------
-**Research:** I'm currently studying **star formation** in the Milky Way. Specifically, I'm trying to uncover molecular tracers of different processes related to star formation in a molecular cloud near the Galactic Center called "The Brick." I am also broadly interested in observational radio astronomy and radio/infrared/optical instrumentation. You can check out some of the projects I have worked on in the [Astronomy](https://abulatek.github.io/astronomy/) tab on this site. 
+**Research:** I'm currently studying **star formation** in the Milky Way. Specifically, I'm trying to uncover molecular tracers of different processes related to star formation in a molecular cloud near the Galactic Center called "The Brick." I am also broadly interested in observational radio astronomy and radio/infrared/optical instrumentation. You can check out some of the projects I have worked on in the Research section of [my CV](https://abulatek.github.io/files/abulatek_CV.pdf). 
 
 [**Rocketry:**](https://abulatek.github.io/rocketry/) At Macalester, I was involved with Macalester's High Power Rocketry team ([here's their Facebook page](https://www.facebook.com/MacRocketry)), and I participated in the design and build processes for several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team intended to participate in the Spaceport America Cup in 2020, which was cancelled, but the team plans to participate in the summer 2021 competition and is doing lots of other cool remote activities in the meantime. 
 
