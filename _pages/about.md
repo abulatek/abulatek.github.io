@@ -10,13 +10,13 @@ redirect_from:
 
 *Hello!*
 ------
-My name is Alyssa Bulatek (she/her) and I am a [second-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/files/abulatek_CV.pdf) (last updated November 20, 2021).
+My name is Alyssa Bulatek (she/her) and I am a [second-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/files/abulatek_CV.pdf) (last updated June 6, 2022).
 
 Interests
 ------
 **Research:** I'm currently studying **star formation** in the Milky Way. Specifically, I'm trying to uncover molecular tracers of different processes related to star formation in a molecular cloud near the Galactic Center called "The Brick." I am also broadly interested in observational radio astronomy and radio/infrared/optical instrumentation. You can check out some of the projects I have worked on in the Research section of [my CV](https://abulatek.github.io/files/abulatek_CV.pdf). 
 
-[**Rocketry:**](https://abulatek.github.io/rocketry/) At Macalester, I was involved with Macalester's High Power Rocketry team ([here's their Facebook page](https://www.facebook.com/MacRocketry)), and I participated in the design and build processes for several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team intended to participate in the Spaceport America Cup in 2020, which was cancelled, but the team has been very active since then, but with remote and in-person activities and competitions.
+[**Rocketry:**](https://abulatek.github.io/hobbies/) At Macalester, I was involved with Macalester's High Power Rocketry team ([here's their Facebook page](https://www.facebook.com/MacRocketry)), and I participated in the design and build processes for several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team intended to participate in the Spaceport America Cup in 2020, which was cancelled, but the team has been very active since then in both remote and in-person activities and competitions.
 
 **Technical theatre and more:** I have harbored a love for theatre since high school and worked in the costume shop at Macalester. My favorite musical is [*Big Fish*](https://www.theatricalrights.com/show/big-fish/). I am an avid player of the [Nancy Drew PC game series](https://www.herinteractive.com/shop-games/all-games/). I am a big fan of the podcast [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/). 
 
