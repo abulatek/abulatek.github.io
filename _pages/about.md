@@ -22,17 +22,11 @@ Interests
 
 Recent Activities
 ------
+- **March 2022:** Masters defense
+  - I gave my Masters presentation, entitled "Which spectral lines trace what physical processes in the Galactic Center? First results: temperature structure and line list" based on my work during the first two years of my graduate school career. My presentation is available to watch [here](https://youtu.be/aE_JxJB21Wg), with slides available [here](https://abulatek.github.io/files/masters.pdf).
+
 - **November 2021:** Attendee, *IAA Severo Ochoa Advanced School on Star Formation*
   - I attended the [IAA Severo Ochoa Advanced School on Star Formation](https://www.granadacongresos.com/starform) in Granada, Spain, where I heard from experts in the field about both the fundamentals and the current "big questions" in the field of star formation, from protostellar to extragalactic scales.
 
 - **May 2021:** Contributed talk, *ISM2021*
   - I gave a talk at the virtual ISM2021 conference summarizing my work so far on our ALMA spectral line survey of the Galactic Central Molecular Zone cloud G0.253+0.015 ("The Brick"). Here is a [video](https://youtu.be/kj7t0HyJ-cU) of my talk.
-
-- **January 2021:** iPoster Plus, *237th Meeting of the American Astronomical Society*
-  - I presented my contribution to the proposed Paschen-Alpha Survey of Hydrogen IONs (PASHION) small satellite mission, led by Dr. Adam Ginsburg, at the virtual winter meeting of the AAS this year. Check out my [iPoster](https://aas237-aas.ipostersessions.com/default.aspx?s=0F-63-1D-BA-EC-6C-54-A6-65-E2-1C-15-EE-C5-CD-4C&guestview=true)!
-
-- **September 2020:** Graduate school, *University of Florida*
-  - I started graduate school in the Astronomy department at the University of Florida, working with Dr. Adam Ginsburg.
-
-- **April 2020:** Undergraduate Thesis Defense
-  - I presented my honors thesis entitled "Design and Modal Analysis of an Ultra-wideband Receiver for Green Bank Observatory" based on my work at from this past summer. My paper is publicly available to read (and my [presentation](https://youtu.be/yq-kfK1X7T8) is available to watch) on the [Macalester Journal of Physics and Astronomy website](https://digitalcommons.macalester.edu/mjpa/vol8/iss1/3/).
