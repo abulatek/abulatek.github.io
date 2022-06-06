@@ -13,30 +13,30 @@ redirect_from:
 
 Education
 ======
-* PhD Student in Astronomy, University of Florida, 2020 -- Present
-* MS in Astronomy, University of Florida, 2020 -- 2022
-* BA in Physics (Honors; Astronomy emphasis) and Applied Mathematics/Statistics, Macalester College, 2016 -- 2020
+* **PhD Student in Astronomy**, University of Florida, 2020 -- Present
+* **MS in Astronomy**, University of Florida, 2020 -- 2022
+* **BA in Physics (Honors; Astronomy emphasis) and Applied Mathematics/Statistics**, Macalester College, 2016 -- 2020
 
 Research Experience
 ======
-* 2020 -- Present: Graduate Research Assistant, University of Florida
+* 2020 -- Present: **Graduate Research Assistant**, University of Florida
   * Uncovering molecular tracers for star formation processes in The Brick (G0.253+0.016)
   * Explored young stellar object-identifying capabilities of proposed Pa α small satellite mission
   * Advisor: Adam Ginsburg
 
-* 2019: Summer Student, Green Bank Observatory
+* 2019: **Summer Student**, Green Bank Observatory
   * Calculated predicted efficiency of new ultra-wideband receiver for pulsar timing with the GBT
   * Advisor: Steve White
 
-* 2018: NSF REU Student Researcher, University of Rochester
+* 2018: **NSF REU Student Researcher**, University of Rochester
   * Developed first-order correction for signal-dependent interpixel capacitance in IR detectors
   * Advisors: Judy Pipher and Craig McMurtry
 
-* 2018, 2017: Undergraduate Student Researcher, Macalester College
+* 2018, 2017: **Undergraduate Student Researcher**, Macalester College
   * Imaged four galaxies in neutral hydrogen for the first time using data from the VLA
   * Advisor: John Cannon
 
-* 2017: NSF REU Summer Fellow, Wesleyan University
+* 2017: **NSF REU Summer Fellow**, Wesleyan University
   * Imaged and modeled three circumstellar disks using data from ALMA
   * Advisor: Kevin Flaherty (now at Williams College)
 
@@ -60,9 +60,9 @@ Teaching
   
 Service and Leadership
 ======
-* 2022 – 2023: GSC Representative, Astronomy Department, University of Florida
-* 2021 – 2022: Secretary, Graduate Astronomy Organization, University of Florida
-* 2019 – 2020: Stitcher, Costume Shop, Theatre and Dance Department, Macalester College
-* 2018 – 2020: Chief Operator, WMCN 91.7 FM (Macalester College Radio)
-* 2017 – 2020: Cofounder, President, Treasurer, team member, High Power Rocketry at Macalester
-* Fall 2019: Women in Physics and Astronomy Reading Group, Macalester College
+* 2022 – 2023: **GSC Representative**, Astronomy Department, University of Florida
+* 2021 – 2022: **Secretary**, Graduate Astronomy Organization, University of Florida
+* 2019 – 2020: **Stitcher**, Costume Shop, Theatre and Dance Department, Macalester College
+* 2018 – 2020: **Chief Operator**, WMCN 91.7 FM (Macalester College Radio)
+* 2017 – 2020: **Cofounder, President, Treasurer, team member**, High Power Rocketry at Macalester
+* Fall 2019: **Women in Physics and Astronomy Reading Group**, Macalester College
