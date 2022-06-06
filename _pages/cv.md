@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-** For a complete and more frequently-updated version of my CV, please [click here](https://abulatek.github.io/files/abulatek_CV.pdf). **
+**For a complete and more frequently-updated version of my CV, please [click here](https://abulatek.github.io/files/abulatek_CV.pdf).**
 
 Education
 ======
