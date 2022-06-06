@@ -62,7 +62,5 @@ Service and Leadership
 ======
 * 2022 – 2023: **GSC Representative**, Astronomy Department, University of Florida
 * 2021 – 2022: **Secretary**, Graduate Astronomy Organization, University of Florida
-* 2019 – 2020: **Stitcher**, Costume Shop, Theatre and Dance Department, Macalester College
 * 2018 – 2020: **Chief Operator**, WMCN 91.7 FM (Macalester College Radio)
 * 2017 – 2020: **Cofounder, President, Treasurer, team member**, High Power Rocketry at Macalester
-* Fall 2019: **Women in Physics and Astronomy Reading Group**, Macalester College
