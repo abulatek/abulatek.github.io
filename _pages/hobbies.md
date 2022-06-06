@@ -12,10 +12,10 @@ High Power Rocketry at Macalester
 I am a co-founder of Macalester College's high power rocketry team, founded in 2017. We build and fly rockets for annual competitions throughout the academic year and host DIY rocket events in our library. 
 
 <p align="center">
-  <img src="https://abulatek.github.io/images/ribbon_logo.png" style="display: inline" width="150" height="150" alt="Mac Rocketry logo" />
-  <img src="https://abulatek.github.io/images/QFT1_patch.png" style="display: inline" width="150" height="150" alt="QFT I mission patch" />
-  <img src="https://abulatek.github.io/images/QFT2_patch.png" style="display: inline" width="150" height="150" alt="QFT II mission patch" />
-  <img src="https://abulatek.github.io/images/mach_patch.png" style="display: inline" width="150" height="150" alt="Mach-alester I mission patch" />
+  <img src="https://abulatek.github.io/images/ribbon_logo.png" style="display: inline" width="200" height="200" alt="Mac Rocketry logo" />
+  <img src="https://abulatek.github.io/images/QFT1_patch.png" style="display: inline" width="200" height="200" alt="QFT I mission patch" />
+  <img src="https://abulatek.github.io/images/QFT2_patch.png" style="display: inline" width="200" height="200" alt="QFT II mission patch" />
+  <img src="https://abulatek.github.io/images/mach_patch.png" style="display: inline" width="200" height="200" alt="Mach-alester I mission patch" />
 </p>
 
 Our logo and mission patches were designed by my friend [Ira Langdon](https://langdon.works/), artist and rocketry extraordinaire.
