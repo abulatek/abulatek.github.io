@@ -10,10 +10,10 @@ High-Power Rocketry at Macalester
 I am a co-founder of Macalester College's high power rocketry team, founded in 2017. We build and fly rockets for annual competitions throughout the academic year and host DIY rocket events in our library. 
 
 <p align="center">
-  <img src="https://abulatek.github.io/files/ribbon_logo.png" style="display: inline" width="150" height="150" alt="Mac Rocketry logo" />
-  <img src="https://abulatek.github.io/files/QFT1_patch.png" style="display: inline" width="150" height="150" alt="QFT I mission patch" />
-  <img src="https://abulatek.github.io/files/QFT2_patch.png" style="display: inline" width="150" height="150" alt="QFT II mission patch" />
-  <img src="https://abulatek.github.io/files/mach_patch.png" style="display: inline" width="150" height="150" alt="Mach-alester I mission patch" />
+  <img src="https://abulatek.github.io/images/ribbon_logo.png" style="display: inline" width="150" height="150" alt="Mac Rocketry logo" />
+  <img src="https://abulatek.github.io/images/QFT1_patch.png" style="display: inline" width="150" height="150" alt="QFT I mission patch" />
+  <img src="https://abulatek.github.io/images/QFT2_patch.png" style="display: inline" width="150" height="150" alt="QFT II mission patch" />
+  <img src="https://abulatek.github.io/images/mach_patch.png" style="display: inline" width="150" height="150" alt="Mach-alester I mission patch" />
 </p>
 
 Our logo and mission patches were designed by my friend [Ira Langdon](https://langdon.works/), artist and rocketry extraordinaire.
@@ -21,6 +21,10 @@ Our logo and mission patches were designed by my friend [Ira Langdon](https://la
 Public Outreach
 ------
 The rocketry team engages in **public outreach activities** at least once per semester. We host "build your own rocket" sessions in the Idea Lab, the maker space in Macalester's library. These events are open to the general public as well as the Macalester student body. 
+
+<p align="center">
+  <img src="https://abulatek.github.io/images/rocketry_outreach.jpg" width="100%" alt="An outreach event group photo" />
+</p>
 
 Spaceport America Cup 2020
 ------
@@ -31,7 +35,7 @@ Mach-alester I
 Our team participated in the NASA Space Grant Midwest High Power Rocketry Competition during the 2018-2019 school year, our second entry into the competition. The challenge of this competition was to build an **"efficient supersonic"** rocket---break the speed of sound during flight, but fly to the lowest possible maximum altitude. Our rocket, dubbed Mach-alester I, weighed in at less than 4.5 pounds with motors installed and stood only 3 feet tall. We launched the rocket in fall 2019 due to mud-related scrubs in the spring, and Mach-alester I only got in one flight before landing without a parachute and losing its fins. 
 
 <p align="center">
-  <img src="https://abulatek.github.io/files/mach_group_photo.JPG" width="100%" alt="Mach-alester I group photo" />
+  <img src="https://abulatek.github.io/images/mach_group_photo.JPG" width="100%" alt="Mach-alester I group photo" />
 </p>
 
 Quantum Field Theory II
@@ -43,7 +47,7 @@ Quantum Heavy
 Quantum Heavy was built for our first entry in the Midwest High Power Rocketry Competition in 2018. It was quite heavy indeed at over 6.5 pounds. The goal of the 2017-2018 competition was to build a rocket that could **control its rotation** about its roll axis. We chose to do this using a flywheel powered by a stepper motor. There were several new techniques employed by the team for this build, including a spring system to deploy LEDs outside of the rocket that would display which direction the flywheel was spinning. Due to a gyroscope with a low sampling rate, QH was unable to successfully control its roll, but building the rocket and participating in the competition was a rewarding experience nonetheless.
 
 <p align="center">
-  <img src="https://abulatek.github.io/files/QH_parachute.jpg" width="100%" alt="Quantum Heavy parachute deployment" />
+  <img src="https://abulatek.github.io/images/QH_parachute.jpg" width="100%" alt="Quantum Heavy parachute deployment" />
 </p>
 
 Quantum Field Theory
