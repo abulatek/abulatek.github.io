@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 ======
-<img src="/images/alyssa_august_2020_2_circle-min.png" width="200" align="right" style="padding: 25px;" alt="A photo of me!" />
+
 > My name is Alyssa Bulatek (she/her) and I am a [second-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/files/abulatek_CV.pdf) (last updated November 20, 2021).
 
 Interests
