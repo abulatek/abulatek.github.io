@@ -10,7 +10,7 @@ redirect_from:
 
 *Hello!*
 ------
-My name is Alyssa Bulatek (she/her) and I am a [second-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/cv/) (last updated June 6, 2022).
+My name is Alyssa Bulatek (she/her) and I am a [second-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/cv/) (last updated June 27, 2022).
 
 Interests
 ------
@@ -26,11 +26,11 @@ Interests
 
 Recent Activities
 ------
+- **June 2022:** Poster, *From Stars to Galaxies II*
+  - I attended [From Stars to Galaxies II](http://cosmicorigins.space/fstgii) in Gothenburg, Sweden, where I presented a poster about my project using The Brick as a tool to find new tracer molecules for star formation processes in extreme environments.
+
 - **March 2022:** Masters defense
   - I gave my Masters presentation, entitled "Which spectral lines trace what physical processes in the Galactic Center? First results: temperature structure and line list" based on my work during the first two years of my graduate school career. My presentation is available to watch [here](https://youtu.be/7vltyxZKf9w), with slides available [here](https://abulatek.github.io/files/masters.pdf).
 
 - **November 2021:** Attendee, *IAA Severo Ochoa Advanced School on Star Formation*
   - I attended the [IAA Severo Ochoa Advanced School on Star Formation](https://www.granadacongresos.com/starform) in Granada, Spain, where I heard from experts in the field about both the fundamentals and the current "big questions" in the field of star formation, from protostellar to extragalactic scales.
-
-- **May 2021:** Contributed talk, *ISM2021*
-  - I gave a talk at the virtual ISM2021 conference summarizing my work so far on our ALMA spectral line survey of the Galactic Central Molecular Zone cloud G0.253+0.015 ("The Brick"). Here is a [video](https://youtu.be/kj7t0HyJ-cU) of my talk.

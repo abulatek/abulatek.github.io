@@ -5,7 +5,7 @@ permalink: /bookmarks/
 author_profile: true
 ---
 
-Here are some useful resources that I have encountered in my life in academia so far, sorted alphabetically. I have found most, if not all, of them through others, so full credit goes to them for discovering these.
+Here are some useful resources that I have encountered in my life in academia so far. I have found most, if not all, of them through others, so full credit goes to them for discovering these.
 
 - **For students**
   - [GRE requirements and admission fees for US/Canadian Astronomy and Physics Programs](https://docs.google.com/spreadsheets/d/19UhYToXOPZkZ3CM469ru3Uwk4584CmzZyAVVwQJJcyc/edit#gid=0)

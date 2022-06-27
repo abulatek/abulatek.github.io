@@ -46,7 +46,7 @@ Hands-on experience is an important step in the early careers of scientists who 
 
 Quantum Heavy
 ------
-Quantum Heavy was built for our first entry in the Midwest High Power Rocketry Competition in 2018. It was quite heavy indeed at over 6.5 pounds. The goal of the 2017-2018 competition was to build a rocket that could **control its rotation** about its roll axis. We chose to do this using a flywheel powered by a stepper motor. There were several new techniques employed by the team for this build, including a spring system to deploy LEDs outside of the rocket that would display which direction the flywheel was spinning. Due to a gyroscope with a low sampling rate, QH was unable to successfully control its roll, but building the rocket and participating in the competition was a rewarding experience nonetheless.
+Quantum Heavy was built for our first entry in the Midwest High Power Rocketry Competition in 2018. It was quite heavy indeed at over 6.5 pounds. The goal of the 2017 -- 2018 competition was to build a rocket that could **control its rotation** about its roll axis. We chose to do this using a flywheel powered by a stepper motor. There were several new techniques employed by the team for this build, including a spring system to deploy LEDs outside of the rocket that would display which direction the flywheel was spinning. Due to a gyroscope with a low sampling rate, QH was unable to successfully control its roll, but building the rocket and participating in the competition was a rewarding experience nonetheless.
 
 <p align="center">
   <img src="https://abulatek.github.io/images/QH_parachute.jpg" width="100%" alt="Quantum Heavy parachute deployment" />
@@ -54,4 +54,4 @@ Quantum Heavy was built for our first entry in the Midwest High Power Rocketry C
 
 Quantum Field Theory
 ------
-During the fall of 2017, a professor at Macalester asked some students in the physics department if we would be interested in building a rocket along with other colleges in Minnesota using **video lessons** given by the University of Minnesota. Our interest lead us to build Quantum Field Theory, whose name was inspired by a textbook in our workspace and the fact that our coach is a theoretical physicist.
+During the fall of 2017, a professor at Macalester asked some students in the Physics department if we would be interested in building a rocket along with other colleges in Minnesota using **video lessons** given by the University of Minnesota. Our interest lead us to build Quantum Field Theory, whose name was inspired by a textbook in our workspace and the fact that our coach is a theoretical physicist.

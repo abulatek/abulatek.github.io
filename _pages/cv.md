@@ -60,6 +60,7 @@ Talks
   
 Service and Leadership
 ======
+* 2022 – 2023: **Outreach Coordinator**, Graduate Astronomy Organization, University of Florida
 * 2022 – 2023: **GSC Representative**, Astronomy Department, University of Florida
 * 2021 – 2022: **Secretary**, Graduate Astronomy Organization, University of Florida
 * 2018 – 2020: **Chief Operator**, WMCN 91.7 FM (Macalester College Radio)
