@@ -42,13 +42,13 @@ Research Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -60,8 +60,10 @@ Talks
   
 Service and Leadership
 ======
-* 2022 – 2023: **Outreach Coordinator**, Graduate Astronomy Organization, University of Florida
-* 2022 – 2023: **GSC Representative**, Astronomy Department, University of Florida
+* 2022 - Present: **Member**, LGBTQ+ Presidential Advisory Committee (LPAC), University of Florida
+* 2022 - Present: **Administrative Assistant**, [Lunar Plume Alleviation Device (PAD) Team](https://www.lunarpadteam.com/home)
+* 2022 – Present: **Outreach Coordinator**, Graduate Astronomy Organization, University of Florida
+* 2022 – Present: **GSC Representative**, Astronomy Department, University of Florida
 * 2021 – 2022: **Secretary**, Graduate Astronomy Organization, University of Florida
 * 2018 – 2020: **Chief Operator**, WMCN 91.7 FM (Macalester College Radio)
 * 2017 – 2020: **Cofounder, President, Treasurer, team member**, High Power Rocketry at Macalester

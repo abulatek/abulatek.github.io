@@ -9,6 +9,7 @@ Here are some useful resources that I have encountered in my life in academia so
 
 - **For students**
   - [GRE requirements and admission fees for US/Canadian Astronomy and Physics Programs](https://docs.google.com/spreadsheets/d/19UhYToXOPZkZ3CM469ru3Uwk4584CmzZyAVVwQJJcyc/edit#gid=0)
+  - [Information about the National Science Foundation Graduate Research Fellowship (GRFP)](https://www.alexhunterlang.com/nsf-fellowship): the basics, some guidelines, and some examples of successful essays.
   - [Astrobites](https://astrobites.org): journal articles in a digestible format. You can also submit your own research!
   - [AstroSites](https://astrosites.github.io/index.html): contains a tutorial to build a website for yourself!
 
