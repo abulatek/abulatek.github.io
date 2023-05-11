@@ -8,4 +8,4 @@ date: 2018-08-03
 location: "Rochester, New York"
 ---
 
-The poster is available [here](https://abulatek.github.io/files/abulatek_UR_REU_presentation.pdf).
+The slides for this talk are available [here](https://abulatek.github.io/files/abulatek_UR_REU_presentation.pdf).

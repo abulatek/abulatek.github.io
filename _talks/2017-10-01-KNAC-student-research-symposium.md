@@ -8,4 +8,4 @@ date: 2017-10-01
 location: "Hamilton, New York"
 ---
 
-The poster is available [here](https://abulatek.github.io/files/knac_talk_abulatek.pdf).
+The slides for this talk are available [here](https://abulatek.github.io/files/knac_talk_abulatek.pdf).
