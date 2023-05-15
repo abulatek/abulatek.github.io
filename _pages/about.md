@@ -10,14 +10,14 @@ redirect_from:
 
 *Hello!*
 ------
-My name is Alyssa Bulatek (she/her) and I am a [second-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/cv/) (last updated Jan. 18, 2023).
+My name is Alyssa Bulatek (she/her) and I am a [second-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/cv/).
 
 Interests
 ------
 **Research:** I'm currently studying **star formation** in the Milky Way. Specifically, I'm trying to uncover molecular tracers of different processes related to star formation in a molecular cloud near the Galactic Center called "The Brick." I am also broadly interested in observational radio astronomy and radio/infrared/optical instrumentation. You can check out some of the projects I have worked on in the Research section of [my CV](https://abulatek.github.io/files/abulatek_CV.pdf). 
 
 <p align="center">
-  <img src="https://abulatek.github.io/images/research_photo.JPG" width="100%" alt="Mach-alester I group photo" />
+  <img src="https://abulatek.github.io/images/research_photo.JPG" width="100%" alt="Alyssa presenting her poster at From Stars to Galaxies II" />
 </p>
 
 [**Rocketry:**](https://abulatek.github.io/hobbies/) At Macalester, I was involved with Macalester's High Power Rocketry team ([here's their Facebook page](https://www.facebook.com/MacRocketry)), and I participated in the design and build processes for several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team intended to participate in the Spaceport America Cup in 2020, which was cancelled, but the team has been very active since then in both remote and in-person activities and competitions.
@@ -26,11 +26,13 @@ Interests
 
 Recent Activities
 ------
-- **June 2022:** Poster, *From Stars to Galaxies II*
-  - I attended [From Stars to Galaxies II](http://cosmicorigins.space/fstgii) in Gothenburg, Sweden, where I presented a poster about my project using The Brick as a tool to find new tracer molecules for star formation processes in extreme environments.
+- **Summer 2023:** PhD Candidacy Defense
 
-- **March 2022:** Masters defense
-  - I gave my Masters presentation, entitled "Which spectral lines trace what physical processes in the Galactic Center? First results: temperature structure and line list" based on my work during the first two years of my graduate school career. My presentation is available to watch [here](https://youtu.be/7vltyxZKf9w), with slides available [here](https://abulatek.github.io/files/masters.pdf).
+- **May 2023:** Poster, *New Eyes on the Universe: SKA and ngVLA*
+  - I attended [New Eyes on the Universe: SKA and ngVLA](https://web.cvent.com/event/0b9d0692-1fed-412e-82f0-212f05a72434/summary) in Vancouver, Canada, where I presented a poster about a potential ngVLA survey of distant star-forming galaxies with a newly-observed "dasar" line of methanol.
 
-- **November 2021:** Attendee, *IAA Severo Ochoa Advanced School on Star Formation*
-  - I attended the [IAA Severo Ochoa Advanced School on Star Formation](https://www.granadacongresos.com/starform) in Granada, Spain, where I heard from experts in the field about both the fundamentals and the current "big questions" in the field of star formation, from protostellar to extragalactic scales.
+- **April 2023:** Poster, *Protostars and Planets VII*
+  - I attended [Protostars and Planets VII](http://ppvii.org/) in Kyoto, Japan, where I presented an updated poster on my project using The Brick as a tool to find new tracer molecules for star formation processes in extreme environments.
+
+<!-- - **March 2022:** Masters defense
+  - I gave my Masters presentation, entitled "Which spectral lines trace what physical processes in the Galactic Center? First results: temperature structure and line list" based on my work during the first two years of my graduate school career. My presentation is available to watch [here](https://youtu.be/7vltyxZKf9w), with slides available [here](https://abulatek.github.io/files/masters.pdf). -->

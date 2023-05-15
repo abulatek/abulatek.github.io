@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# The following 4 lines have been added to make dark mode happen
 plugins:
   - jekyll-remote-theme
 remote_theme           : "mmistakes/minimal-mistakes"
@@ -134,7 +135,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets`
+  - assets` # Added to make dark mode happen
   - CHANGELOG
   - Capfile
   - Gemfile
