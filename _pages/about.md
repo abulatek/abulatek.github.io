@@ -10,7 +10,7 @@ redirect_from:
 
 *Hello!*
 ------
-My name is Alyssa Bulatek (she/her) and I am a [second-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/cv/).
+My name is Alyssa Bulatek (she/her) and I am a [third (nearly fourth)-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/cv/).
 
 Interests
 ------
