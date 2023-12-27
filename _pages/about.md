@@ -26,7 +26,7 @@ Interests
 
 Recent Activities
 ------
-- **Summer 2023:** PhD Candidacy Defense
+- **September 2023:** PhD Candidacy Defense
   - I gave my candidacy presentation, entitled "The Brick Line Survey: Star Formation in Extreme Environments." My presentation is available to watch [here](https://youtu.be/oJElAk8nW0Q), with slides available [here](https://abulatek.github.io/files/bulatek_candidacy.pdf).
 
 - **May 2023:** Poster, *New Eyes on the Universe: SKA and ngVLA*
