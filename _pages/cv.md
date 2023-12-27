@@ -11,13 +11,21 @@ redirect_from:
 
 **For a complete and more frequently-updated version of my CV, please [click here](https://abulatek.github.io/files/abulatek_CV.pdf).**
 
+Appointments
+======
+* **Graduate Student** (under Dr. Adam Ginsburg), University of Florida, 2020 -- Present
+* **Summer Student** (under Steve White), Green Bank Observatory, Summer 2019
+* **NSF REU Student** (under Dr. Judy Pipher and Craig McMurtry), University of Rochester, Summer 2018
+* **Research Assistant** (under Dr. John Cannon), Macalester College, 2017 -- 2018
+* **NSF REU Student** (under Dr. Kevin Flaherty), Wesleyan University, Summer 2017
+
 Education
 ======
 * **PhD Student in Astronomy**, University of Florida, 2020 -- Present
 * **MS in Astronomy**, University of Florida, 2020 -- 2022
 * **BA in Physics (Honors; Astronomy emphasis) and Applied Mathematics/Statistics**, Macalester College, 2016 -- 2020
 
-Research Experience
+<!-- Research Experience
 ======
 * 2020 -- Present: **Graduate Research Assistant**, University of Florida
   * Uncovering molecular tracers for star formation processes in The Brick (G0.253+0.016)
@@ -38,7 +46,7 @@ Research Experience
 
 * 2017: **NSF REU Summer Fellow**, Wesleyan University
   * Imaged and modeled three circumstellar disks using data from ALMA
-  * Advisor: Kevin Flaherty (now at Williams College)
+  * Advisor: Kevin Flaherty (now at Williams College) -->
 
 Publications
 ======
@@ -58,7 +66,7 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and Leadership
+<!-- Service and Leadership (abbreviated)
 ======
 * 2022 - Present: **Member**, LGBTQ+ Presidential Advisory Committee (LPAC), UF
 * 2022 - Present: **Administrative Assistant**, [Lunar Plume Alleviation Device (PAD)](https://www.lunarpadteam.com/home)
@@ -66,4 +74,4 @@ Service and Leadership
 * 2022 – Present: **GSC Representative**, Astronomy Department, UF
 * 2021 – 2022: **Secretary**, Graduate Astronomy Organization, UF
 * 2018 – 2020: **Chief Operator**, WMCN 91.7 FM (Macalester College Radio)
-* 2017 – 2020: **Cofounder, President, Treasurer, team member**, High Power Rocketry at Macalester
+* 2017 – 2020: **Cofounder, President, Treasurer, team member**, High Power Rocketry at Macalester -->

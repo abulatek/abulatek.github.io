@@ -12,6 +12,8 @@ Here are some useful resources that I have encountered in my life in academia so
   - [Information about the National Science Foundation Graduate Research Fellowship (GRFP)](https://www.alexhunterlang.com/nsf-fellowship): the basics, some guidelines, and some examples of successful essays.
   - [Astrobites](https://astrobites.org): journal articles in a digestible format. You can also submit your own research!
   - [AstroSites](https://astrosites.github.io/index.html): contains a tutorial to build a website for yourself!
+  - [AstroBetter Talk Series for Early Career Astronomers](https://www.astrobetter.com/wiki/Talk+Series+for+Early+Career+Researchers): list of talk series that early-career astronomers can participate in for networking.
+  - [AstroTeaching](https://astroteaching.github.io/): resources for teaching astrophysics.
 
 - **Visualizations**
   - [AstroAnimations](https://www.astroanimation.org)
