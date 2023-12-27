@@ -12,8 +12,8 @@ main:
   - title: "Outreach"
     url: /outreach/  
 
-  - title: "Hobbies"
-    url: /hobbies/
+#  - title: "Hobbies"
+#    url: /hobbies/
 
   - title: "Bookmarks"
     url: /bookmarks/
