@@ -5,11 +5,11 @@ permalink: /outreach/
 author_profile: true
 ---
 
-Outreach with UF Astro
+UF Astronomy
 ======
-The UF Astronomy department reaches over 3,000 members of the public through a variety of outreach events throughout the school year and summer. From public nights at our on-campus observatory to visits to elementary, middle, and high schools near and far, our reach is astronomical. 
+The UF Astronomy department reaches over 3,000 members of the public every year through a variety of outreach events throughout the school year and summer. From public nights at our on-campus observatory to visits to elementary, middle, and high schools near and far, our reach is astronomical. 
 
-In summer 2023, I lead an outreach effort called "UF Shines Solar," which is a collaboration between my advisor and two science camps for middle/high schoolers run by UF CPET. These camps allow students to explore several areas of science and art connected by a unifying theme (for last year: light, landscapes, and lenses). For the astronomy portion of the camp, campers observe the Sun using special solar telescopes. My contribution to UF Shines involved giving presentations on the Sun and observing safety to the campers, along with taking care of email correspondence, program schedule development, and equipment setup, transportation, and operation. I organized a small group of volunteers for each event.
+In summer 2023, I led an outreach effort called "UF Shines Solar," which is a collaboration between my advisor and two science camps for middle/high schoolers run by UF CPET. These camps allow students to explore several areas of science and art connected by a unifying theme (for last year: light, landscapes, and lenses). For the astronomy portion of the camp, campers observe the Sun using special solar telescopes. My contribution to UF Shines involved giving presentations on the Sun and observing safety to the campers, along with taking care of email correspondence, program schedule development, and equipment setup, transportation, and operation. I organized a small group of volunteers for each event.
 
 <p align="center">
   <img src="https://abulatek.github.io/images/alyssa_UF_Shines.jpeg" width="100%" alt="Alyssa giving a presentation on the Sun to local students" />
