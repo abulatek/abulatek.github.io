@@ -19,7 +19,7 @@ Starlab Portable Planetarium
 ------
 The UF Astronomy department owns a portable Starlab planetarium that we tour around to elementary and middle schools both within Alachua County and beyond. I was involved with revitalizing this program after the pandemic prevented visits (and have named the program UF AMP [Astronomy Portable Planetarium]). 
 
-If you would like the UF AMP Planetarium to visit your school, please sent an email to: (ufastro.outreach@astro.ufl.edu)[mailto:ufastro.outreach@astro.ufl.edu]
+If you would like the UF AMP Planetarium to visit your school, please sent an email to: <ufastro.outreach@astro.ufl.edu>
 
 <p align="center">
   <img src="https://abulatek.github.io/images/UF_astro_planetarium_outreach_group.JPG" width="100%" alt="UF Astro outreach group photo" />
