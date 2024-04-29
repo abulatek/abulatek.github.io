@@ -14,7 +14,7 @@ My name is Alyssa Bulatek (she/her) and I am a [fourth-year graduate student](ht
 
 Interests
 ------
-**Research:** I'm currently studying **star formation** in the Milky Way. Specifically, I'm trying to uncover molecular tracers of different processes related to star formation in a molecular cloud near the Galactic Center called "The Brick." I am also broadly interested in observational radio astronomy and radio/infrared/optical instrumentation. You can check out some of the projects I have worked on in [my CV](https://abulatek.github.io/files/abulatek_CV.pdf). 
+**Research:** I'm currently studying **star formation** in the Milky Way. Specifically, I'm trying to uncover molecular tracers of different processes related to star formation in a molecular cloud near the Galactic Center called "The Brick." I am also broadly interested in observational radio astronomy and radio/infrared/optical instrumentation. You can check out some of the projects I have worked on in [my CV](https://abulatek.github.io/files/abulatek_cv.pdf). 
 
 <p align="center">
   <img src="https://abulatek.github.io/images/research_photo.JPG" width="100%" alt="Alyssa presenting her poster at From Stars to Galaxies II" />

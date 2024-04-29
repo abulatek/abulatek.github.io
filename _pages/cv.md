@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**For a complete and more frequently-updated version of my CV, please [click here](https://abulatek.github.io/files/abulatek_CV.pdf).**
+**For a complete and more frequently-updated version of my CV, please [click here](https://abulatek.github.io/files/abulatek_cv.pdf).**
 
 Appointments
 ======
@@ -21,7 +21,7 @@ Appointments
 
 Education
 ======
-* **PhD Student in Astronomy**, University of Florida, 2020 -- Present
+* **PhD Candidate in Astronomy**, University of Florida, 2020 -- Present
 * **MS in Astronomy**, University of Florida, 2020 -- 2022
 * **BA in Physics (Honors; Astronomy emphasis) and Applied Mathematics/Statistics**, Macalester College, 2016 -- 2020
 
