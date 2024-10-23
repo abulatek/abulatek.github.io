@@ -10,7 +10,7 @@ redirect_from:
 
 *Hello!*
 ------
-My name is Alyssa Bulatek (she/her) and I am a [fourth-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida working with Dr. Adam Ginsburg. I graduated from Macalester College in May 2020. If you would like to know more about things I have gotten to do in my career so far, please see [my CV](https://abulatek.github.io/cv/).
+Alyssa Bulatek (she/her) is a [fifth-year graduate student](https://astro.ufl.edu/directory/alyssa-bulatek/) in the Astronomy department at the University of Florida in Gainesville working with Dr. Adam Ginsburg. She studies the process by which gas and dust condense into stars in one of the most extreme and turbulent parts of our Milky Way galaxy: its Galactic Center. Specifically, she uses radio telescopes to study light emitted by molecules (both simple and complex) that uniquely trace age milestones in the infancy of a forming star. Alyssa loves to learn about discoveries on the frontiers of astronomy, whether they be fast radio bursts, exoplanets, or gravitational waves. In her future, Alyssa hopes to work at a small college as a lecturer and observatory manager in an Astronomy department. When she is not doing research, she enjoys reading sci-fi and fantasy novels, playing video games in the Ace Attorney series, and cross-stitching pixelated versions of impressionist paintings. If you would like to know more about things Alyssa has gotten to do in her career so far, please see her [CV](https://abulatek.github.io/cv/).
 
 Interests
 ------
@@ -22,7 +22,7 @@ Interests
 
 <!-- [**Rocketry:**](https://abulatek.github.io/hobbies/) At Macalester, I was involved with Macalester's High Power Rocketry team ([here's their Facebook page](https://www.facebook.com/MacRocketry)), and I participated in the design and build processes for several competition rockets: Quantum Field Theory I, Quantum Heavy, and Mach-alester I. Our team intended to participate in the Spaceport America Cup in 2020, which was cancelled, but the team has been very active since then in both remote and in-person activities and competitions. -->
 
-**Technical theatre and more:** I have harbored a love for theatre since high school and worked in the costume shop at Macalester. My favorite musical is [*Big Fish*](https://www.theatricalrights.com/show/big-fish/). I am an [avid player](https://www.youtube.com/channel/UCYdvdoHbrFpmEM9TXPnenIA) of the [Nancy Drew PC game series](https://www.herinteractive.com/shop-games/all-games/), and I frequently indulge my nostalgia by playing [other PC games from my childhood](https://youtu.be/9iby4o_0oVM). I am a fan of the tabletop game Dungeons and Dragons, though I do not play it regularly. I have recently been developing an interest in filmmaking.
+**Technical theatre and more:** I have harbored a love for theatre since high school and worked in the costume shop at Macalester. My favorite musical is [*Big Fish*](https://www.theatricalrights.com/show/big-fish/). I am an [avid player](https://www.youtube.com/channel/UCYdvdoHbrFpmEM9TXPnenIA) of the [Nancy Drew PC game series](https://www.herinteractive.com/shop-games/all-games/), and I frequently indulge my nostalgia by playing [other PC games from my childhood](https://youtu.be/9iby4o_0oVM). I am a fan of the tabletop game Dungeons and Dragons. I have recently been developing an interest in filmmaking.
 
 Recent Activities
 ------
