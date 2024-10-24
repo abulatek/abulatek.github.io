@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 ------
-> Alyssa Bulatek (she/her) is a [fifth-year grad student](https://astro.ufl.edu/directory/alyssa-bulatek/) at UF Astro working with Dr. Adam Ginsburg. She studies the process of star formation in the Milky Way's Galactic Center, using radio telescopes to measure light emitted by molecules (both simple and complex) that uniquely trace age milestones in the infancy of a forming star. In her future, Alyssa hopes to work at a small college as a lecturer and observatory manager. When she is not doing research, she enjoys reading sci-fi and fantasy novels, playing video games (Ace Attorney), and cross-stitching pixelated versions of impressionist paintings.
+> Alyssa Bulatek (she/her) is a [fifth-year grad student](https://astro.ufl.edu/directory/alyssa-bulatek/) at UF Astro working with Dr. Adam Ginsburg. She studies the process of star formation in the Milky Way's Galactic Center, using radio telescopes to measure light emitted by molecules (both simple and complex) that uniquely trace age milestones in the infancy of a forming star. In her future, Alyssa hopes to work at a small college as a lecturer and observatory manager. In her spare time, she enjoys reading (sci-fi/fantasy), playing video games (Ace Attorney), and cross-stitching (pixelated versions of impressionist paintings).
 
 Interests
 ------
