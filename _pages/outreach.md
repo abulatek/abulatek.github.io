@@ -19,9 +19,9 @@ For the astronomy portion of the camp, campers observe the Sun using special sol
   <img src="https://abulatek.github.io/images/alyssa_UF_Shines.jpeg" width="100%" alt="Alyssa giving a presentation on the Sun to local students" />
 </p>
 
-Starlab Portable Planetarium
+UF Astronomy Mobile Planetarium (UF AMP) Program
 ------
-The UF Astronomy department owns a two portable planetariums that we tour around to elementary and middle schools both within Alachua County and beyond. I was involved with revitalizing this program after the pandemic prevented visits and have coined the name UF AMP (Astronomy Mobile Planetarium) for the program. 
+The UF Astronomy department owns two portable planetariums that we tour around to elementary and middle schools both within Alachua County and beyond. I was involved with revitalizing this program after the pandemic prevented visits and have coined the name UF AMP (Astronomy Mobile Planetarium) for the program. Our logo was designed by Ben Capistrant.
 
 Sound cool? If you would like UF AMP to visit your school, please contact us at: <ufastro.outreach@astro.ufl.edu>
 
