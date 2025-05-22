@@ -1,7 +1,7 @@
 ---
 title: "Dased and not confused: absorption of the Cosmic Microwave Background by methanol"
 collection: talks
-type: "Graduate symposium presentation"
+type: "Graduate symposium talk"
 permalink: /talks/2022-10-14-grad-symposium
 venue: "University of Florida"
 date: 2022-10-14

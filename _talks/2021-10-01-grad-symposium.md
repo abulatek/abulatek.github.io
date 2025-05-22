@@ -1,7 +1,7 @@
 ---
 title: "Which spectral lines trace what physical processes in the Galactic Center?"
 collection: talks
-type: "Graduate symposium presentation"
+type: "Graduate symposium talk"
 permalink: /talks/2021-10-01-grad-symposium
 venue: "University of Florida (virtual)"
 date: 2021-10-01

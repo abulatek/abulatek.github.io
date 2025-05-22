@@ -1,7 +1,7 @@
 ---
 title: "The Brick Line Survey of a warm molecular core in the CMZ and the diffuse medium around it"
 collection: talks
-type: "Presentation"
+type: "Talk"
 permalink: /talks/2024-08-05-boston-talk
 venue: "ACES Boston Workshop"
 date: 2024-08-05

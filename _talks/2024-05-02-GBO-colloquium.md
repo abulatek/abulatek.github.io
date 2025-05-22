@@ -1,7 +1,7 @@
 ---
 title: "Almost Heaven, Galactic Center: Star Formation in the Wild, Wonderful Brick (G0.253+0.016)"
 collection: talks
-type: "Presentation"
+type: "Invited colloquium"
 permalink: /talks/2024-05-02-GBO-colloquium
 venue: "Green Bank Observatory"
 date: 2024-05-02
