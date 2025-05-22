@@ -21,7 +21,6 @@ Here are some useful resources that I have encountered in my life in academia so
 - [Exoplanet Travel Bureau](https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/)
 - [Gaia's Stellar Family Portrait](https://sci.esa.int/gaia-stellar-family-portrait/): explore the properties of over 1 billion stars in our Galaxy, and learn about how color-magnitude diagrams can be used to determine a star's position in its life cycle.
 - [NASA Eyes on Exoplanets](https://exoplanets.nasa.gov/eyes-on-exoplanets/)
-- [NASA free ebooks](https://www.nasa.gov/connect/ebooks/index.html)
 - [NRAO's Cosmic Coloring Compositor](https://public.nrao.edu/color/): utilize the entire electromagnetic spectrum to make an awesome image of your favorite galaxy. 
 - [NRAO's Interferometry Explained](https://public.nrao.edu/interferometry-explained/): explore how the Very Large Array and ALMA gather data with their many antennae.
 - [NRAO's Milky Way Explorer](https://public.nrao.edu/explore/milky-way-explorer/): explore the Milky Way with NRAO astronomers.
