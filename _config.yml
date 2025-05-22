@@ -64,20 +64,20 @@ alexa_site_verification  :
 yandex_site_verification :
 
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# # Social Sharing
+# twitter:
+#   username               : &twitter
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 
 # Analytics
@@ -86,8 +86,10 @@ analytics:
   google:
     tracking_id          :
 
+
 # Site Settings
 repository               : "abulatek/abulatek.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
@@ -147,6 +149,7 @@ author:
   youtube          : "@alyssabulatek"
   zhihu            : # Username
 
+
 # # Publication Category - The following the list of publication categories and their headings
 # publication_category:
 #   books:
@@ -155,6 +158,7 @@ author:
 #     title: 'Journal Articles'    
 #   conferences:
 #     title: 'Conference Papers'
+
 
 # Reading Files
 include:
