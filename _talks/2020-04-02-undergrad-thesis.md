@@ -8,6 +8,8 @@ date: 2020-04-02
 location: "Virtual"
 ---
 
+The recording for this talk is available [here](https://youtu.be/yq-kfK1X7T8).
+
 The slides for this talk are available [here](https://abulatek.github.io/files/gbouwb.pdf).
 
-The recording for this talk is available [here](https://youtu.be/yq-kfK1X7T8).
+{% include youtube.html id="yq-kfK1X7T8" %}
