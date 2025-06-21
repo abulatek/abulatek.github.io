@@ -138,7 +138,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "metalyssaty"
+  steam            : # "metalyssaty"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
@@ -146,7 +146,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "alyssabulatek"
+  youtube          : # "alyssabulatek"
   zhihu            : # Username
 
 
