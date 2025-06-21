@@ -10,6 +10,4 @@ location: "Gainesville, Florida"
 
 A video of my symposium talk is available [here](https://youtu.be/FpsQH7C0U0I).
 
-{% include youtube.html id="FpsQH7C0U0I" %}
-
 The slides are available [here](https://abulatek.github.io/files/bulatek_symposium_2024.pdf).

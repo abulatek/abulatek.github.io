@@ -11,5 +11,3 @@ location: "Virtual"
 The recording for this talk is available [here](https://youtu.be/yq-kfK1X7T8).
 
 The slides for this talk are available [here](https://abulatek.github.io/files/gbouwb.pdf).
-
-{% include youtube.html id="yq-kfK1X7T8" %}

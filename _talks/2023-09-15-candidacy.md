@@ -11,5 +11,3 @@ location: "Gainesville, Florida"
 A video of my candidacy talk is available [here](https://youtu.be/oJElAk8nW0Q).
 
 The slides are available [here](https://abulatek.github.io/files/bulatek_candidacy.pdf).
-
-{% include youtube.html id="oJElAk8nW0Q" %}
