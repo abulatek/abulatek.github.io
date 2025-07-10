@@ -16,6 +16,7 @@ Here are some useful resources that I have encountered in my life in academia so
 - [AstroTeaching](https://astroteaching.github.io/): resources for teaching astrophysics.
 
 **Visualizations:**
+- [Stellar Nucleosynthesis with Clay](https://www.youtube.com/watch?v=7E-0j90Cwpk): a visualization of how nuclear fusion proceeds within a star.
 - [AstroAnimations](https://www.astroanimation.org)
 - [DSN Now](https://eyes.nasa.gov/dsn/dsn.html)
 - [Exoplanet Travel Bureau](https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/)
