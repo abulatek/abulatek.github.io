@@ -1,5 +1,5 @@
 ---
-title: "The Brick Line Survey: Star Formation in Extreme Environments"
+title: "The Brick Line Survey: Star Formation in an Extreme Environment"
 collection: talks
 type: "Candidacy talk"
 permalink: /talks/2023-09-15-candidacy
