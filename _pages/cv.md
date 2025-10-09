@@ -9,38 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-**For a complete and more frequently-updated version of my CV, please [click here](https://abulatek.github.io/files/abulatek_CV.pdf).**
+*For a complete and more frequently-updated version of my CV, please [click here](https://abulatek.github.io/files/abulatek_CV.pdf).*
 
-Education
-======
+## Education
+
+---
+
 * **PhD Candidate in Astronomy**, University of Florida, 2020 -- Present
   * Family medical leave Fall 2023
 * **MS in Astronomy**, University of Florida, 2020 -- 2022
 * **BA in Physics (Honors; Astronomy emphasis) and Applied Mathematics/Statistics, cum laude**, Macalester College, 2016 -- 2020
   * [*Design and Modal Analysis of an Ultra-wideband Receiver for Green Bank Observatory*](https://digitalcommons.macalester.edu/mjpa/vol8/iss1/3/)
 
-Appointments
-======
+## Appointments
+
+---
+
 * **Graduate Student** (under Dr. Adam Ginsburg), University of Florida, 2020 -- Present
 * **Summer Student** (under Steve White), Green Bank Observatory, Summer 2019
 * **NSF REU Student** (under Dr. Judy Pipher and Craig McMurtry), University of Rochester, Summer 2018
 * **Research Assistant** (under Dr. John Cannon), Macalester College, 2017 -- 2018
 * **NSF REU Student** (under Dr. Kevin Flaherty), Wesleyan University, Summer 2017
 
-Publications
-======
+## Publications
+
+---
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
+
+---
+
   <ul>{% for post in site.talks reversed reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-<!-- Teaching
-======
+<!-- ## Teaching
+
+---
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
