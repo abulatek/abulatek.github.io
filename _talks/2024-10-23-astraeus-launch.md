@@ -3,7 +3,7 @@ title: "High-Mass Star Formation and the Origin of the Stellar Initial Mass Func
 collection: talks
 type: "Poster"
 permalink: /talks/2024-10-23-astraeus-launch
-venue: "University of Florida"
+venue: "Astraeus Space Institute Launch Event"
 date: 2024-10-23
 location: "Gainesville, Florida"
 ---
