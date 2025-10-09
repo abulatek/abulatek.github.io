@@ -8,5 +8,3 @@ venue: 'The Astrophysical Journal Letters'
 paperurl: 'https://iopscience.iop.org/article/10.3847/2041-8213/aada48/pdf'
 citation: 'Cannon, J. M., Shen, Z., McQuinn, K. B. W., et al. 2018, ApJL, 864, L14. doi:10.3847/2041-8213/aada48'
 ---
-
-Recommended citation: Cannon, J. M., Shen, Z., McQuinn, K. B. W., et al. 2018, ApJL, 864, L14. doi:10.3847/2041-8213/aada48

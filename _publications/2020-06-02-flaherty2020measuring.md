@@ -7,5 +7,3 @@ venue: 'The Astrophysical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/ab8cc5/pdf'
 citation: 'Flaherty, K., Hughes, A. M., Simon, J. B., et al. 2020, ApJ, 895, 109. doi:10.3847/1538-4357/ab8cc5'
 ---
-
-Recommended citation: Flaherty, K., Hughes, A. M., Simon, J. B., et al. 2020, ApJ, 895, 109. doi:10.3847/1538-4357/ab8cc5

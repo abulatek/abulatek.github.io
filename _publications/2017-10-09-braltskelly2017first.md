@@ -7,5 +7,3 @@ venue: 'The Astrophysical Journal Letters'
 paperurl: 'https://iopscience.iop.org/article/10.3847/2041-8213/aa8ea0/pdf'
 citation: 'Bralts-Kelly, L., Bulatek, A. M., Chinski, S., et al. 2017, ApJL, 848, L10. doi:10.3847/2041-8213/aa8ea0'
 ---
-
-Recommended citation: Bralts-Kelly, L., Bulatek, A. M., Chinski, S., et al. 2017, ApJL, 848, L10. doi:10.3847/2041-8213/aa8ea0

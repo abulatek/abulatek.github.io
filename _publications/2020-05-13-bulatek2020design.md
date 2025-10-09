@@ -7,5 +7,3 @@ venue: 'Macalester Journal of Physics and Astronomy'
 paperurl: 'https://digitalcommons.macalester.edu/cgi/viewcontent.cgi?article=1151&context=mjpa'
 citation: 'Bulatek, Alyssa (2020) "Design and Modal Analysis of an Ultra-wideband Receiver for Green Bank Observatory," Macalester Journal of Physics and Astronomy: Vol. 8: Iss. 1, Article 3. Available at: https://digitalcommons.macalester.edu/mjpa/vol8/iss1/3'
 ---
-
-Recommended citation: Bulatek, Alyssa (2020) "Design and Modal Analysis of an Ultra-wideband Receiver for Green Bank Observatory," Macalester Journal of Physics and Astronomy: Vol. 8: Iss. 1, Article 3. Available at: https://digitalcommons.macalester.edu/mjpa/vol8/iss1/3
