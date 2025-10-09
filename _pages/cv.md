@@ -14,8 +14,10 @@ redirect_from:
 Education
 ======
 * **PhD Candidate in Astronomy**, University of Florida, 2020 -- Present
+  * Family medical leave Fall 2023
 * **MS in Astronomy**, University of Florida, 2020 -- 2022
-* **BA in Physics (Honors; Astronomy emphasis) and Applied Mathematics/Statistics**, Macalester College, 2016 -- 2020
+* **BA in Physics (Honors; Astronomy emphasis) and Applied Mathematics/Statistics, cum laude**, Macalester College, 2016 -- 2020
+  * [*Design and Modal Analysis of an Ultra-wideband Receiver for Green Bank Observatory*](https://digitalcommons.macalester.edu/mjpa/vol8/iss1/3/)
 
 Appointments
 ======
