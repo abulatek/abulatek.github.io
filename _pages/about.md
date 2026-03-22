@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 ------
-> Alyssa Bulatek (she/her) is a fifth-year grad student at UF Astro working with Dr. Adam Ginsburg. She studies the process of star formation in the Milky Way's Galactic Center, using radio telescopes to measure light emitted by molecules (both simple and complex) that uniquely trace age milestones in the infancy of a forming star. In her future, Alyssa hopes to work at a small college as a lecturer and observatory manager. In her spare time, she enjoys reading (sci-fi/fantasy), playing video games (Ace Attorney), and cross-stitching (pixelated versions of impressionist paintings).
+> Alyssa Bulatek (she/her) is a sixth-year grad student at UF Astro working with Dr. Adam Ginsburg. She studies the process of star formation in the Milky Way's Galactic Center, using radio telescopes to measure light emitted by molecules (both simple and complex) that uniquely trace age milestones in the infancy of a forming star. In her future, Alyssa hopes to work at a small college as a lecturer and observatory manager. In her spare time, she enjoys reading (sci-fi/fantasy), playing video games (Ace Attorney), and cross-stitching (pixelated versions of impressionist paintings).
 
 Interests
 ------
@@ -26,14 +26,17 @@ Interests
 
 Recent Activities
 ------
+- **March 2026:** PhD Dissertation Defense
+  - I successfully defended my dissertation, entitled "The Brick Line Survey: Star Formation in an Extreme Environment." My presentation is available to watch [here](https://youtu.be/oLqStJNYZAY).
+
 - **September 2023:** PhD Candidacy Defense
   - I gave my candidacy presentation, entitled "The Brick Line Survey: Star Formation in Extreme Environments." My presentation is available to watch [here](https://youtu.be/oJElAk8nW0Q), with slides available [here](https://abulatek.github.io/files/bulatek_candidacy.pdf).
 
 - **May 2023:** Poster, *New Eyes on the Universe: SKA and ngVLA*
   - I attended [New Eyes on the Universe: SKA and ngVLA](https://web.cvent.com/event/0b9d0692-1fed-412e-82f0-212f05a72434/summary) in Vancouver, Canada, where I presented a poster about a potential ngVLA survey of distant star-forming galaxies with a newly-observed "dasar" line of methanol.
 
-- **April 2023:** Poster, *Protostars and Planets VII*
-  - I attended [Protostars and Planets VII](http://ppvii.org/) in Kyoto, Japan, where I presented an updated poster on my project using The Brick as a tool to find new tracer molecules for star formation processes in extreme environments.
+<!-- - **April 2023:** Poster, *Protostars and Planets VII*
+  - I attended [Protostars and Planets VII](http://ppvii.org/) in Kyoto, Japan, where I presented an updated poster on my project using The Brick as a tool to find new tracer molecules for star formation processes in extreme environments. -->
 
 <!-- - **March 2022:** Masters defense
   - I gave my Masters presentation, entitled "Which spectral lines trace what physical processes in the Galactic Center? First results: temperature structure and line list" based on my work during the first two years of my graduate school career. My presentation is available to watch [here](https://youtu.be/7vltyxZKf9w), with slides available [here](https://abulatek.github.io/files/masters.pdf). -->
